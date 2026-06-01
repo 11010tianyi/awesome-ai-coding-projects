@@ -14,10 +14,22 @@
 
 ## 快速入口
 
+- [在线网站](https://11010tianyi.github.io/awesome-ai-coding-projects/)
 - [AI Coding 优秀项目清单](./相关性资源集/AI_Coding优秀项目_全网高相关性项目清单.md)
 - [项目数据源](./data/projects.json)
 - [GitHub 元数据追踪脚本](./scripts/update-github-metadata.mjs)
 - [自动发现热门候选脚本](./scripts/discover-hot-projects.mjs)
+- [外链自动核对脚本](./scripts/check-links.mjs)
+
+## 网页体验
+
+GitHub Pages 首页不是简单 Markdown 目录，而是一个可交互 dashboard：
+
+- **精选项目**：站内卡片浏览，不跳转到 raw Markdown。
+- **每日候选**：展示自动发现的新线索，人工复核后再晋升精选榜。
+- **趋势图表**：展示精选评分曲线、类型分布、GitHub star 对比和外链健康概览。
+- **说明与来源**：解释 `10/10` 相关性评分、`A/B/C` 证据等级和主要数据来源。
+- **外链状态**：自动标注 `可访问`、`维护中`、`疑似失效`、`脚本无法确认`，避免把失效链接伪装成可用项目。
 
 ## 收录标准
 
@@ -41,6 +53,7 @@
 ```bash
 npm run update
 npm run discover
+npm run links
 npm run daily
 ```
 
@@ -53,10 +66,17 @@ npm run daily
 
 `npm run discover` 会：
 
-- 用 GitHub Search 自动检索 `vibe coded`、`built with Claude Code`、`built with Cursor`、`built with Lovable`、`bolt.new`、`Replit Agent`、`Copilot agent`、`topic:vibe-coding` 等线索
+- 用 GitHub Search 自动检索 `vibe coded`、`vibe coded app`、`vibe coded game`、`built with Claude Code`、`built with Cursor`、`built with Lovable`、`bolt.new`、`Replit Agent`、`Copilot agent` 等线索
 - 去重已收录项目
 - 生成 `data/hot-candidates.json`
 - 生成 `相关性资源集/AI_Coding新发现热门项目候选.md`
+
+`npm run links` 会：
+
+- 检查 `data/projects.json` 中的体验入口和 GitHub 仓库入口
+- 对 GitHub 仓库优先使用 GitHub API 元数据，避免普通网页抓取误判
+- 生成 `data/link-check.json`
+- 在网页中显示外链健康状态
 
 如果仓库发布到 GitHub，`.github/workflows/update-tracking.yml` 会每天自动运行。建议配置 `GH_TOKEN` 或使用默认 `GITHUB_TOKEN`，避免匿名 API 限流。
 

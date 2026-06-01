@@ -7,8 +7,9 @@
   "scripts": {
     "update": "node scripts/update-github-metadata.mjs",
     "discover": "node scripts/discover-hot-projects.mjs",
-    "daily": "npm run discover && npm run update",
-    "check": "node --check scripts/update-github-metadata.mjs && node --check scripts/discover-hot-projects.mjs"
+    "links": "node scripts/check-links.mjs",
+    "daily": "npm run discover && npm run update && npm run links",
+    "check": "node --check scripts/update-github-metadata.mjs && node --check scripts/discover-hot-projects.mjs && node --check scripts/check-links.mjs"
   },
   "license": "CC0-1.0"
 }

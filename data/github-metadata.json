@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T14:16:46.639Z",
+  "generatedAt": "2026-06-01T15:18:48.512Z",
   "metadata": [
     {
       "owner": "Shpigford",
@@ -60,7 +60,7 @@
       "htmlUrl": "https://github.com/indragiek/Context",
       "description": "Native macOS client for Model Context Protocol (MCP)",
       "stars": 799,
-      "forks": 32,
+      "forks": 33,
       "openIssues": 10,
       "language": "Swift",
       "license": "MIT",
@@ -81,7 +81,7 @@
       "openIssues": 0,
       "language": "Python",
       "license": null,
-      "pushedAt": "2026-05-29T22:57:16Z",
+      "pushedAt": "2026-06-01T14:42:33Z",
       "updatedAt": "2026-05-29T22:57:20Z",
       "archived": false,
       "homepage": "https://krypdoh.github.io/TCKR/"
