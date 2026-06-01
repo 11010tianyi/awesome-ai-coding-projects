@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Fly",
+    "category": "Game",
+    "url": "https://fly.pieter.com",
+    "github": "",
+    "score": 10,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录，标注 100% made with AI",
+    "learnFrom": "大型多人 3D Web 游戏、空战、实时场景体验"
+  },
+  {
+    "name": "Vibe Sail",
+    "category": "Game",
+    "url": "https://vibesail.com",
+    "github": "",
+    "score": 10,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 与 awesome-ai-built-games 收录",
+    "learnFrom": "多人航海模拟、探索、货运任务、低压氛围"
+  },
+  {
+    "name": "Society Fail",
+    "category": "Game",
+    "url": "https://society.fail",
+    "github": "https://github.com/Shpigford/society-fail",
+    "score": 10,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-ai-built-games 收录，源码公开",
+    "learnFrom": "增量游戏系统、资源循环、轻叙事包装"
+  },
+  {
+    "name": "Tower of Time",
+    "category": "Game",
+    "url": "",
+    "github": "https://github.com/maciej-trebacz/tower-of-time-game",
+    "score": 10,
+    "confidence": "A",
+    "aiCodingEvidence": "awesome-vibecoded-apps 标注约 95% 代码由 AI 写成",
+    "learnFrom": "塔防与时间回溯机制组织"
+  },
+  {
+    "name": "Oyster Arcade",
+    "category": "Game",
+    "url": "https://arcade.oyster.to/",
+    "github": "",
+    "score": 9.5,
+    "confidence": "A",
+    "aiCodingEvidence": "awesome-ai-built-games 标注 Claude Code end-to-end",
+    "learnFrom": "复古街机合集、统一美术、小游戏组织"
+  },
+  {
+    "name": "The Great Taxi Assignment",
+    "category": "Game",
+    "url": "https://great-taxi-assignment.netlify.app",
+    "github": "",
+    "score": 9.5,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录，Vibe Coding Game Jam 2025 获奖",
+    "learnFrom": "Game Jam 成品完整度、3D 驾驶手感"
+  },
+  {
+    "name": "Vector Tango",
+    "category": "Game",
+    "url": "https://www.vector-tango.com",
+    "github": "",
+    "score": 9.5,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "低多边形空管、空战、多人玩法"
+  },
+  {
+    "name": "MenuGen",
+    "category": "Web App",
+    "url": "https://www.menugen.app",
+    "github": "",
+    "score": 9,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录，并标注 Andrej Karpathy 作品",
+    "learnFrom": "拍菜单生成菜品图，单一痛点转即时价值"
+  },
+  {
+    "name": "PrintPigeon",
+    "category": "Web App",
+    "url": "https://printpigeon.co.uk",
+    "github": "",
+    "score": 9,
+    "confidence": "A",
+    "aiCodingEvidence": "awesome-vibecoded-apps 标注 3 天用 Lovable 完成",
+    "learnFrom": "上传 PDF 到打印邮寄的真实业务闭环"
+  },
+  {
+    "name": "DummyForms",
+    "category": "Web App",
+    "url": "https://dummyforms.com",
+    "github": "",
+    "score": 9,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录，Lovable hackathon 获奖",
+    "learnFrom": "AI 表单生成、无代码编辑、SaaS MVP"
+  },
+  {
+    "name": "My Baby Logger",
+    "category": "Web App",
+    "url": "https://mybabylogger.com",
+    "github": "",
+    "score": 9,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "新生儿喂养、睡眠、尿布、用药记录"
+  },
+  {
+    "name": "JeniCards",
+    "category": "Web App",
+    "url": "https://jenicards.com",
+    "github": "",
+    "score": 9,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "个性化贺卡生成，情绪价值产品"
+  },
+  {
+    "name": "Mixcard",
+    "category": "Web App",
+    "url": "https://mixcard.me",
+    "github": "",
+    "score": 8.5,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "Spotify 歌单转复古明信片"
+  },
+  {
+    "name": "MPLS Coffee",
+    "category": "Website",
+    "url": "https://mplscoffee.com",
+    "github": "",
+    "score": 8.5,
+    "confidence": "A",
+    "aiCodingEvidence": "awesome-vibecoded-apps 标注 Claude Code 完成",
+    "learnFrom": "本地垂直目录站的信息组织"
+  },
+  {
+    "name": "CourtSync Calendar",
+    "category": "Web App",
+    "url": "https://www.courtsynccalendar.com",
+    "github": "",
+    "score": 8.5,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "PDF 排期抽取为日历文件的垂直自动化"
+  },
+  {
+    "name": "LunchBox Buddy",
+    "category": "Web App",
+    "url": "https://joyful-froyo-b4482b.netlify.app",
+    "github": "",
+    "score": 8.5,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "冰箱照片输入到学生午餐建议"
+  },
+  {
+    "name": "MealMuse",
+    "category": "Web App",
+    "url": "https://mealmuse.ai",
+    "github": "",
+    "score": 8.5,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "照片识别食材、生成食谱和膳食计划"
+  },
+  {
+    "name": "Paddles.ai",
+    "category": "Web App",
+    "url": "https://www.paddles.ai",
+    "github": "",
+    "score": 8,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "运动垂类记录与 AI 分析"
+  },
+  {
+    "name": "CarbScan",
+    "category": "Web App",
+    "url": "https://carbscan.ai",
+    "github": "",
+    "score": 8,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "健康管理里的碳水估算，需关注合规"
+  },
+  {
+    "name": "Timeless Memories",
+    "category": "Web App",
+    "url": "https://timelessmemories.me",
+    "github": "",
+    "score": 8,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "老照片转动态视频，家庭记忆场景"
+  },
+  {
+    "name": "Stories of Life",
+    "category": "Web App",
+    "url": "https://stories-of-life.vercel.app",
+    "github": "",
+    "score": 8,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "基于孩子情绪生成睡前故事"
+  },
+  {
+    "name": "Flowbound",
+    "category": "Web App",
+    "url": "https://www.flowbound.app",
+    "github": "",
+    "score": 8,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "心理学效率工具，内容与交互结合"
+  },
+  {
+    "name": "Refetch",
+    "category": "Web App",
+    "url": "https://refetch.io",
+    "github": "",
+    "score": 7.5,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "开源 Hacker News 替代品的信息架构"
+  },
+  {
+    "name": "Beatseek",
+    "category": "Web App",
+    "url": "https://beatseek.io",
+    "github": "",
+    "score": 7.5,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "跨平台音乐搜索与高级过滤"
+  },
+  {
+    "name": "Standup Buddy",
+    "category": "Web App",
+    "url": "https://standup-buddy.lovable.app",
+    "github": "",
+    "score": 7.5,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "极轻团队工具，站会顺序随机"
+  },
+  {
+    "name": "Lash Tracker",
+    "category": "Web App",
+    "url": "https://lash-map-tracker.replit.app",
+    "github": "",
+    "score": 7.5,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "小众个人记录需求如何产品化"
+  },
+  {
+    "name": "How Many Layers",
+    "category": "Web App",
+    "url": "https://howmanylayersidag.se",
+    "github": "",
+    "score": 7.5,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "天气信息转穿衣决策"
+  },
+  {
+    "name": "ASCIIKeyboard",
+    "category": "Desktop App",
+    "url": "https://github.com/levz0r/ASCIIKeyboard",
+    "github": "https://github.com/levz0r/ASCIIKeyboard",
+    "score": 7,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "macOS 菜单栏小工具"
+  },
+  {
+    "name": "Context",
+    "category": "Desktop App",
+    "url": "https://github.com/indragiek/Context",
+    "github": "https://github.com/indragiek/Context",
+    "score": 7,
+    "confidence": "A",
+    "aiCodingEvidence": "awesome-vibecoded-apps 标注 Claude Code 构建",
+    "learnFrom": "原生 macOS MCP 调试客户端"
+  },
+  {
+    "name": "Poker Slam",
+    "category": "Mobile Game",
+    "url": "https://apps.apple.com/app/poker-slam/id6746056702",
+    "github": "",
+    "score": 7,
+    "confidence": "A",
+    "aiCodingEvidence": "awesome-vibecoded-apps 标注 fully vibe-coded with Cursor",
+    "learnFrom": "iOS 5x5 扑克策略小游戏"
+  },
+  {
+    "name": "Crashy Zorg",
+    "category": "Mobile Game",
+    "url": "https://play.google.com/store/apps/details?id=com.blobware.crashyzorg",
+    "github": "",
+    "score": 7,
+    "confidence": "A",
+    "aiCodingEvidence": "awesome-vibecoded-apps 标注 fully AI-coded",
+    "learnFrom": "AI-coded Android 游戏上架形态"
+  },
+  {
+    "name": "RallyMesh",
+    "category": "Mobile App",
+    "url": "https://play.google.com/store/apps/details?id=com.blazingbanana.rallymesh",
+    "github": "",
+    "score": 7,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "蓝牙 Mesh 离线通信"
+  },
+  {
+    "name": "TCKR",
+    "category": "Desktop App",
+    "url": "https://github.com/krypdoh/TCKR",
+    "github": "https://github.com/krypdoh/TCKR",
+    "score": 7,
+    "confidence": "A",
+    "aiCodingEvidence": "awesome-vibecoded-apps 标注 built with Claude",
+    "learnFrom": "Windows 股票行情小工具"
+  },
+  {
+    "name": "Markdown Printer",
+    "category": "Browser Extension",
+    "url": "https://github.com/levz0r/markdown-printer",
+    "github": "https://github.com/levz0r/markdown-printer",
+    "score": 7,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "网页转 Markdown 的浏览器扩展"
+  },
+  {
+    "name": "DecayBlock",
+    "category": "Browser Extension",
+    "url": "https://chromewebstore.google.com/detail/decayblock/lpljcnalipecdlmafjahhdeghgdepdjg",
+    "github": "",
+    "score": 7,
+    "confidence": "B",
+    "aiCodingEvidence": "awesome-vibecoded-apps 收录",
+    "learnFrom": "专注力扩展的权限与体验设计"
+  },
+  {
+    "name": "Aldi Prices",
+    "category": "Web App",
+    "url": "https://github.com/jimlawruk/aldi-prices",
+    "github": "https://github.com/jimlawruk/aldi-prices",
+    "score": 6.5,
+    "confidence": "A",
+    "aiCodingEvidence": "awesome-vibecoded-apps 标注 all code by Copilot agent",
+    "learnFrom": "价格追踪、历史数据、轻量数据产品"
+  }
+]

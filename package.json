@@ -1,0 +1,14 @@
+{
+  "name": "awesome-ai-coding-projects",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Curated and trackable list of excellent AI coding / vibe coding projects.",
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-github-metadata.mjs",
+    "discover": "node scripts/discover-hot-projects.mjs",
+    "daily": "npm run discover && npm run update",
+    "check": "node --check scripts/update-github-metadata.mjs && node --check scripts/discover-hot-projects.mjs"
+  },
+  "license": "CC0-1.0"
+}
