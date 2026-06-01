@@ -1,19 +1,19 @@
 # AI Coding 新发现热门项目候选
 
 > 由 `scripts/discover-hot-projects.mjs` 自动生成。  
-> 生成时间：2026-06-01T14:01:07.389Z
+> 生成时间：2026-06-01T14:16:44.657Z
 
 这些条目是自动发现的候选项目，尚未进入正式精选榜。建议人工复核项目页、README 或作者说明后，再晋升到 `data/projects.json` 和正式清单。
 
 | 排序 | 发现分 | 项目 | Stars | 类型猜测 | 语言 | 最近 Push | 命中线索 | 描述 |
 |:---:|---:|:---|---:|:---|:---|:---|:---|:---|
-| 1 | 86 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 376007 | Candidate | TypeScript | 2026-06-01 | "vibe coded" in:readme,description<br>"vibe-coded" in:readme,description | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  |
-| 2 | 86 | [github/spec-kit](https://github.com/github/spec-kit) | 107509 | Candidate | Python | 2026-06-01 | "vibe coded" in:readme,description<br>"vibe-coded" in:readme,description | 💫 Toolkit to help you get started with Spec-Driven Development |
+| 1 | 86 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 376010 | Candidate | TypeScript | 2026-06-01 | "vibe coded" in:readme,description<br>"vibe-coded" in:readme,description | Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  |
+| 2 | 86 | [github/spec-kit](https://github.com/github/spec-kit) | 107513 | Candidate | Python | 2026-06-01 | "vibe coded" in:readme,description<br>"vibe-coded" in:readme,description | 💫 Toolkit to help you get started with Spec-Driven Development |
 | 3 | 86 | [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) | 27436 | Desktop App | C++ | 2026-06-01 | "vibe coded" in:readme,description<br>"vibe-coded" in:readme,description | KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”. |
 | 4 | 86 | [onlook-dev/onlook](https://github.com/onlook-dev/onlook) | 25853 | Candidate | TypeScript | 2026-03-27 | "bolt.new" in:readme,description<br>"Replit Agent" app in:readme,description | The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI |
-| 5 | 78 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 57305 | Candidate | Python | 2026-06-01 | "vibecoded" in:readme,description | Universal memory layer for AI Agents |
-| 6 | 78 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | 11544 | Mobile App | TypeScript | 2026-06-01 | "built with Claude Code" in:readme,description | Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely |
-| 7 | 78 | [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | 10380 | Candidate | Rust | 2026-06-01 | "vibecoded" in:readme,description | An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服 |
+| 5 | 78 | [mem0ai/mem0](https://github.com/mem0ai/mem0) | 57307 | Candidate | Python | 2026-06-01 | "vibecoded" in:readme,description | Universal memory layer for AI Agents |
+| 6 | 78 | [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) | 11545 | Mobile App | TypeScript | 2026-06-01 | "built with Claude Code" in:readme,description | Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely |
+| 7 | 78 | [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | 10393 | Candidate | Rust | 2026-06-01 | "vibecoded" in:readme,description | An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服 |
 | 8 | 78 | [github/CopilotForXcode](https://github.com/github/CopilotForXcode) | 6123 | Desktop App | Swift | 2026-05-20 | "Copilot agent" app in:readme,description | AI coding assistant for Xcode |
 | 9 | 78 | [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) | 5401 | Candidate | TypeScript | 2026-06-01 | "Copilot agent" app in:readme,description | Open-source localization engineering tools. Connects to Lingo.dev localization engineering platform for consistent, quality translations. |
 | 10 | 78 | [composio-community/open-claude-cowork](https://github.com/composio-community/open-claude-cowork) | 4219 | Candidate | JavaScript | 2026-05-23 | "built with Claude Code" in:readme,description | Open Source version of Claude Cowork with 500+ SaaS app integrations |
