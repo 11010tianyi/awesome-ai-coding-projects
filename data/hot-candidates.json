@@ -6,7 +6,7 @@
     "url": "https://onlook.com",
     "github": "https://github.com/onlook-dev/onlook",
     "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
-    "stars": 25895,
+    "stars": 25898,
     "forks": 1994,
     "language": "TypeScript",
     "license": "Apache-2.0",
@@ -31,9 +31,9 @@
       "vibe-coding",
       "vibecoding"
     ],
-    "pushedAt": "2026-03-27T18:58:36Z",
+    "pushedAt": "2026-06-09T23:18:58Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"bolt.new\" in:readme,description",
       "\"Replit Agent\" app in:readme,description"
@@ -51,8 +51,8 @@
     "url": "https://openclaw.ai",
     "github": "https://github.com/openclaw/openclaw",
     "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
-    "stars": 377717,
-    "forks": 78978,
+    "stars": 377872,
+    "forks": 79019,
     "language": "TypeScript",
     "license": "NOASSERTION",
     "topics": [
@@ -64,9 +64,9 @@
       "own-your-data",
       "personal"
     ],
-    "pushedAt": "2026-06-09T06:25:22Z",
+    "pushedAt": "2026-06-10T06:37:17Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded\" in:readme,description",
       "\"vibe-coded\" in:readme,description"
@@ -84,8 +84,8 @@
     "url": "https://github.github.com/spec-kit/",
     "github": "https://github.com/github/spec-kit",
     "description": "💫 Toolkit to help you get started with Spec-Driven Development",
-    "stars": 110621,
-    "forks": 9761,
+    "stars": 110905,
+    "forks": 9786,
     "language": "Python",
     "license": "MIT",
     "topics": [
@@ -97,9 +97,9 @@
       "spec",
       "spec-driven"
     ],
-    "pushedAt": "2026-06-08T22:56:12Z",
+    "pushedAt": "2026-06-09T22:44:23Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded\" in:readme,description",
       "\"vibe-coded\" in:readme,description"
@@ -117,7 +117,7 @@
     "url": "https://keepassxc.org/",
     "github": "https://github.com/keepassxreboot/keepassxc",
     "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
-    "stars": 27562,
+    "stars": 27581,
     "forks": 1813,
     "language": "C++",
     "license": "NOASSERTION",
@@ -137,7 +137,7 @@
     ],
     "pushedAt": "2026-06-04T17:11:14Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded\" in:readme,description",
       "\"vibe-coded\" in:readme,description"
@@ -155,8 +155,8 @@
     "url": "https://mem0.ai",
     "github": "https://github.com/mem0ai/mem0",
     "description": "Universal memory layer for AI Agents",
-    "stars": 58107,
-    "forks": 6671,
+    "stars": 58226,
+    "forks": 6685,
     "language": "Python",
     "license": "Apache-2.0",
     "topics": [
@@ -175,9 +175,9 @@
       "rag",
       "state-management"
     ],
-    "pushedAt": "2026-06-09T01:20:50Z",
+    "pushedAt": "2026-06-10T06:45:32Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibecoded\" in:readme,description"
     ],
@@ -194,14 +194,14 @@
     "url": "https://github.com/BigPizzaV3/CodexPlusPlus",
     "github": "https://github.com/BigPizzaV3/CodexPlusPlus",
     "description": "An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服",
-    "stars": 16075,
-    "forks": 992,
+    "stars": 16641,
+    "forks": 1028,
     "language": "Rust",
     "license": null,
     "topics": [],
-    "pushedAt": "2026-06-08T17:27:52Z",
+    "pushedAt": "2026-06-10T06:10:01Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibecoded\" in:readme,description"
     ],
@@ -218,14 +218,14 @@
     "url": "https://dimensionalos.com/",
     "github": "https://github.com/dimensionalOS/dimos",
     "description": "Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
-    "stars": 3449,
-    "forks": 683,
+    "stars": 3456,
+    "forks": 687,
     "language": "Python",
     "license": "NOASSERTION",
     "topics": [],
-    "pushedAt": "2026-06-09T06:17:00Z",
+    "pushedAt": "2026-06-10T06:12:59Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibecoded\" in:readme,description"
     ],
@@ -242,14 +242,14 @@
     "url": "https://www.mossx.ai/download",
     "github": "https://github.com/zhukunpenglinyutong/desktop-cc-gui",
     "description": "CC GUI 客户端（专为开发者打造的VibeCoding平台）",
-    "stars": 2816,
+    "stars": 2831,
     "forks": 246,
     "language": "TypeScript",
     "license": "MIT",
     "topics": [],
     "pushedAt": "2026-06-08T07:41:28Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibecoded\" in:readme,description"
     ],
@@ -266,8 +266,8 @@
     "url": "https://nezha.hanshutx.com/",
     "github": "https://github.com/hanshuaikang/nezha",
     "description": "Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine.",
-    "stars": 1434,
-    "forks": 141,
+    "stars": 1440,
+    "forks": 143,
     "language": "TypeScript",
     "license": "GPL-3.0",
     "topics": [
@@ -279,9 +279,9 @@
       "vibe-coding",
       "vibecoding"
     ],
-    "pushedAt": "2026-06-08T16:33:57Z",
+    "pushedAt": "2026-06-10T02:38:44Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibecoded\" in:readme,description"
     ],
@@ -298,8 +298,8 @@
     "url": "https://cloudcli.ai",
     "github": "https://github.com/siteboon/claudecodeui",
     "description": "Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely.",
-    "stars": 11730,
-    "forks": 1594,
+    "stars": 11759,
+    "forks": 1595,
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "topics": [
@@ -316,9 +316,9 @@
       "react",
       "ui"
     ],
-    "pushedAt": "2026-06-08T17:27:54Z",
+    "pushedAt": "2026-06-09T20:53:21Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -351,7 +351,7 @@
     ],
     "pushedAt": "2026-05-23T11:52:19Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -368,8 +368,8 @@
     "url": "https://github.com/github/CopilotForXcode",
     "github": "https://github.com/github/CopilotForXcode",
     "description": "AI coding assistant for Xcode",
-    "stars": 6133,
-    "forks": 1888,
+    "stars": 6132,
+    "forks": 1887,
     "language": "Swift",
     "license": "MIT",
     "topics": [
@@ -385,7 +385,7 @@
     ],
     "pushedAt": "2026-05-20T06:43:02Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"Copilot agent\" app in:readme,description"
     ],
@@ -402,8 +402,8 @@
     "url": "https://lingo.dev",
     "github": "https://github.com/lingodotdev/lingo.dev",
     "description": "Open-source localization engineering tools. Connects to Lingo.dev localization engineering platform for consistent, quality translations.",
-    "stars": 5405,
-    "forks": 825,
+    "stars": 5404,
+    "forks": 824,
     "language": "TypeScript",
     "license": "Apache-2.0",
     "topics": [
@@ -413,9 +413,9 @@
       "react-native",
       "typescript"
     ],
-    "pushedAt": "2026-06-05T12:47:33Z",
+    "pushedAt": "2026-06-09T12:14:47Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"Copilot agent\" app in:readme,description"
     ],
@@ -439,7 +439,7 @@
     "topics": [],
     "pushedAt": "2026-03-31T08:03:16Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded app\" in:readme,description"
     ],
@@ -456,7 +456,7 @@
     "url": "https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode",
     "github": "https://github.com/marp-team/marp-vscode",
     "description": "Marp for VS Code: Create slide deck written in Marp Markdown on VS Code",
-    "stars": 2054,
+    "stars": 2055,
     "forks": 141,
     "language": "TypeScript",
     "license": "MIT",
@@ -469,7 +469,7 @@
     ],
     "pushedAt": "2026-05-07T08:24:05Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"Copilot agent\" app in:readme,description"
     ],
@@ -486,14 +486,14 @@
     "url": "https://github.com/skyllwt/AutoSci",
     "github": "https://github.com/skyllwt/AutoSci",
     "description": "Karpathy's LLM-Wiki vision, fully realized — wiki-centric full-lifecycle AI research platform powered by Claude Code",
-    "stars": 1156,
-    "forks": 155,
+    "stars": 1178,
+    "forks": 160,
     "language": "Python",
     "license": "MIT",
     "topics": [],
     "pushedAt": "2026-06-06T07:13:24Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -533,7 +533,7 @@
     ],
     "pushedAt": "2026-03-17T10:49:12Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -550,7 +550,7 @@
     "url": "https://chromewebstore.google.com/detail/cpdown/knnaflplggjdedobhbidojmmnocfbopf",
     "github": "https://github.com/ysm-dev/cpdown",
     "description": "📥 cpdown - Copy to clipboard any webpage content/youtube subtitle as clean markdown with one click or shortcut",
-    "stars": 551,
+    "stars": 552,
     "forks": 27,
     "language": "TypeScript",
     "license": "MIT",
@@ -566,7 +566,7 @@
     ],
     "pushedAt": "2026-06-08T00:25:51Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -600,9 +600,9 @@
       "devtools",
       "open-code"
     ],
-    "pushedAt": "2026-06-08T18:18:51Z",
+    "pushedAt": "2026-06-09T17:58:53Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -619,8 +619,8 @@
     "url": "https://wario.style",
     "github": "https://github.com/b1rdmania/motif",
     "description": "Wario.Style. Game Boy Midi Synthesis Engine. Search any song. Get the 8-bit Game Boy version.",
-    "stars": 411,
-    "forks": 94,
+    "stars": 413,
+    "forks": 95,
     "language": "TypeScript",
     "license": null,
     "topics": [
@@ -637,7 +637,7 @@
     ],
     "pushedAt": "2026-05-27T08:44:04Z",
     "discoveredAt": "2026-06-09T06:30:22.425Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -661,7 +661,7 @@
     "topics": [],
     "pushedAt": "2024-09-05T13:30:40Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -709,7 +709,7 @@
     "topics": [],
     "pushedAt": "2026-04-20T20:17:40Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -727,7 +727,7 @@
     "github": "https://github.com/SudarshanaSRao/sports-on-the-go-4c575e84",
     "description": "A full-stack web app (built with React, TypeScript, Supabase, and OpenStreetMap for real-time game discovery) for discovering and organizing local pickup sports games with real-time maps and user authentication.",
     "stars": 5,
-    "forks": 1,
+    "forks": 2,
     "language": "TypeScript",
     "license": "MIT",
     "topics": [
@@ -743,7 +743,7 @@
     ],
     "pushedAt": "2026-03-23T17:08:41Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description",
       "\"built with Lovable\" app in:readme,description"
@@ -786,7 +786,7 @@
     ],
     "pushedAt": "2026-06-01T08:02:06Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -831,7 +831,7 @@
     ],
     "pushedAt": "2026-04-04T15:47:27Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description",
       "\"built with Lovable\" app in:readme,description"
@@ -867,7 +867,7 @@
     ],
     "pushedAt": "2026-04-10T01:51:44Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description"
     ],
@@ -901,7 +901,7 @@
     ],
     "pushedAt": "2026-05-14T06:04:50Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Lovable\" app in:readme,description"
     ],
@@ -925,7 +925,7 @@
     "topics": [],
     "pushedAt": "2026-05-22T12:41:00Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -949,7 +949,7 @@
     "topics": [],
     "pushedAt": "2024-11-29T11:26:00Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -978,7 +978,7 @@
     ],
     "pushedAt": "2026-01-26T11:12:14Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1008,7 +1008,7 @@
     ],
     "pushedAt": "2025-06-21T09:37:14Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1032,7 +1032,7 @@
     "topics": [],
     "pushedAt": "2025-11-14T08:54:39Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description",
       "\"built with Lovable\" app in:readme,description"
@@ -1057,7 +1057,7 @@
     "topics": [],
     "pushedAt": "2026-03-24T17:50:53Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1081,7 +1081,7 @@
     "topics": [],
     "pushedAt": "2026-05-22T13:04:22Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1105,7 +1105,7 @@
     "topics": [],
     "pushedAt": "2026-05-22T18:24:02Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1129,7 +1129,7 @@
     "topics": [],
     "pushedAt": "2026-05-08T06:31:47Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1153,7 +1153,7 @@
     "topics": [],
     "pushedAt": "2026-02-14T10:39:08Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1186,7 +1186,7 @@
     ],
     "pushedAt": "2025-10-10T19:08:00Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description",
       "\"built with Lovable\" app in:readme,description"
@@ -1220,7 +1220,7 @@
     ],
     "pushedAt": "2025-12-27T08:26:20Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description",
       "\"built with Lovable\" app in:readme,description"
@@ -1245,7 +1245,7 @@
     "topics": [],
     "pushedAt": "2025-11-26T13:31:27Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description",
       "\"built with Lovable\" app in:readme,description"
@@ -1270,7 +1270,7 @@
     "topics": [],
     "pushedAt": "2025-12-02T19:16:53Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description"
     ],
@@ -1294,7 +1294,7 @@
     "topics": [],
     "pushedAt": "2026-01-29T22:35:48Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1318,7 +1318,7 @@
     "topics": [],
     "pushedAt": "2025-12-25T07:54:06Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description"
     ],
@@ -1342,7 +1342,7 @@
     "topics": [],
     "pushedAt": "2025-04-24T06:13:11Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1382,7 +1382,7 @@
     ],
     "pushedAt": "2025-11-30T03:39:20Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Lovable\" app in:readme,description"
     ],
@@ -1406,7 +1406,7 @@
     "topics": [],
     "pushedAt": "2025-11-21T10:32:13Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"built with Lovable\" app in:readme,description"
     ],
@@ -1430,7 +1430,7 @@
     "topics": [],
     "pushedAt": "2025-03-26T18:38:38Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1454,7 +1454,7 @@
     "topics": [],
     "pushedAt": "2025-10-27T16:03:06Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1478,7 +1478,7 @@
     "topics": [],
     "pushedAt": "2026-01-29T22:13:55Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1502,7 +1502,7 @@
     "topics": [],
     "pushedAt": "2025-11-27T07:58:47Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1526,7 +1526,7 @@
     "topics": [],
     "pushedAt": "2025-03-31T20:38:42Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-06-09T06:30:22.425Z",
+    "lastSeenAt": "2026-06-10T06:46:05.313Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
