@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T06:58:32.870Z",
+  "generatedAt": "2026-06-13T06:34:56.187Z",
   "metadata": [
     {
       "owner": "Shpigford",
@@ -25,13 +25,13 @@
       "fullName": "maciej-trebacz/tower-of-time-game",
       "htmlUrl": "https://github.com/maciej-trebacz/tower-of-time-game",
       "description": "Vibe coded Tower Defense type of game made for a game jam",
-      "stars": 369,
+      "stars": 370,
       "forks": 23,
       "openIssues": 1,
       "language": "TypeScript",
       "license": "MIT",
       "pushedAt": "2025-07-04T16:07:09Z",
-      "updatedAt": "2026-06-08T05:04:14Z",
+      "updatedAt": "2026-06-13T02:07:44Z",
       "archived": false,
       "homepage": null
     },
@@ -94,11 +94,11 @@
       "htmlUrl": "https://github.com/levz0r/markdown-printer",
       "description": "Save web pages as Markdown files with preserved formatting. Perfect for documentation, articles, and note-taking.",
       "stars": 30,
-      "forks": 1,
+      "forks": 2,
       "openIssues": 3,
       "language": "JavaScript",
       "license": "MIT",
-      "pushedAt": "2026-06-09T13:57:43Z",
+      "pushedAt": "2026-06-12T19:44:31Z",
       "updatedAt": "2026-06-06T21:36:49Z",
       "archived": false,
       "homepage": "https://lev.engineer"
