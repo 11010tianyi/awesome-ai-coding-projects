@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T06:34:56.187Z",
+  "generatedAt": "2026-06-14T07:01:02.684Z",
   "metadata": [
     {
       "owner": "Shpigford",
@@ -93,13 +93,13 @@
       "fullName": "levz0r/markdown-printer",
       "htmlUrl": "https://github.com/levz0r/markdown-printer",
       "description": "Save web pages as Markdown files with preserved formatting. Perfect for documentation, articles, and note-taking.",
-      "stars": 30,
+      "stars": 31,
       "forks": 2,
       "openIssues": 3,
       "language": "JavaScript",
       "license": "MIT",
       "pushedAt": "2026-06-12T19:44:31Z",
-      "updatedAt": "2026-06-06T21:36:49Z",
+      "updatedAt": "2026-06-14T02:34:10Z",
       "archived": false,
       "homepage": "https://lev.engineer"
     },
@@ -115,8 +115,8 @@
       "openIssues": 0,
       "language": "TypeScript",
       "license": null,
-      "pushedAt": "2025-12-27T00:34:09Z",
-      "updatedAt": "2025-12-31T05:17:15Z",
+      "pushedAt": "2026-06-13T15:41:59Z",
+      "updatedAt": "2026-06-13T15:42:03Z",
       "archived": false,
       "homepage": null
     }
