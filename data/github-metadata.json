@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T07:13:54.919Z",
+  "generatedAt": "2026-06-19T07:33:50.742Z",
   "metadata": [
     {
       "owner": "Shpigford",
@@ -8,13 +8,13 @@
       "fullName": "Shpigford/society-fail",
       "htmlUrl": "https://github.com/Shpigford/society-fail",
       "description": "Browser-based incremental post-apocalyptic clicker game",
-      "stars": 47,
+      "stars": 48,
       "forks": 8,
       "openIssues": 3,
       "language": "JavaScript",
       "license": "MIT",
       "pushedAt": "2025-09-29T14:40:46Z",
-      "updatedAt": "2026-03-19T12:55:51Z",
+      "updatedAt": "2026-06-19T04:06:53Z",
       "archived": false,
       "homepage": "https://society.fail"
     },
@@ -98,7 +98,7 @@
       "openIssues": 3,
       "language": "JavaScript",
       "license": "MIT",
-      "pushedAt": "2026-06-12T19:44:31Z",
+      "pushedAt": "2026-06-18T20:30:06Z",
       "updatedAt": "2026-06-14T02:34:10Z",
       "archived": false,
       "homepage": "https://lev.engineer"
