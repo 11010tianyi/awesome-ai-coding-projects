@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T06:27:28.636Z",
+  "generatedAt": "2026-07-08T05:33:17.724Z",
   "metadata": [
     {
       "owner": "Shpigford",
@@ -72,19 +72,9 @@
     {
       "owner": "krypdoh",
       "repo": "TCKR",
-      "ok": true,
-      "fullName": "krypdoh/TCKR",
-      "htmlUrl": "https://github.com/krypdoh/TCKR",
-      "description": "Stock & Crypto Ticker",
-      "stars": 6,
-      "forks": 1,
-      "openIssues": 0,
-      "language": "Python",
-      "license": "NOASSERTION",
-      "pushedAt": "2026-07-06T13:05:11Z",
-      "updatedAt": "2026-07-06T13:05:48Z",
-      "archived": false,
-      "homepage": "https://krypdoh.github.io/TCKR/"
+      "ok": false,
+      "status": 404,
+      "error": "{\"message\":\"Not Found\",\"documentation_url\":\"https://docs.github.com/rest/repos/repos#get-a-repository\",\"status\":\"404\"}"
     },
     {
       "owner": "levz0r",
