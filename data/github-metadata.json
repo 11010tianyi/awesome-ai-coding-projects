@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T05:33:17.724Z",
+  "generatedAt": "2026-07-09T06:17:42.992Z",
   "metadata": [
     {
       "owner": "Shpigford",
@@ -25,13 +25,13 @@
       "fullName": "maciej-trebacz/tower-of-time-game",
       "htmlUrl": "https://github.com/maciej-trebacz/tower-of-time-game",
       "description": "Vibe coded Tower Defense type of game made for a game jam",
-      "stars": 370,
+      "stars": 369,
       "forks": 23,
       "openIssues": 1,
       "language": "TypeScript",
       "license": "MIT",
       "pushedAt": "2025-07-04T16:07:09Z",
-      "updatedAt": "2026-06-13T02:07:44Z",
+      "updatedAt": "2026-07-08T12:36:04Z",
       "archived": false,
       "homepage": null
     },
@@ -59,13 +59,13 @@
       "fullName": "indragiek/Context",
       "htmlUrl": "https://github.com/indragiek/Context",
       "description": "Native macOS client for Model Context Protocol (MCP)",
-      "stars": 798,
+      "stars": 799,
       "forks": 34,
       "openIssues": 10,
       "language": "Swift",
       "license": "MIT",
       "pushedAt": "2026-02-11T05:27:45Z",
-      "updatedAt": "2026-07-04T14:58:07Z",
+      "updatedAt": "2026-07-08T13:57:16Z",
       "archived": false,
       "homepage": null
     },
