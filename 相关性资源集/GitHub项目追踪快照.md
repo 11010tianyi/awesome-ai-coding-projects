@@ -1,16 +1,16 @@
 # GitHub 项目追踪快照
 
 > 由 `scripts/update-github-metadata.mjs` 自动生成。  
-> 生成时间：2026-07-21T05:32:04.949Z
+> 生成时间：2026-07-22T05:31:09.003Z
 
 | 项目 | Stars | Forks | 语言 | License | 最近 Push |
 |:---|---:|---:|:---|:---|:---|
 | [Shpigford/society-fail](https://github.com/Shpigford/society-fail) | 48 | 8 | JavaScript | MIT | 2025-09-29 |
 | [maciej-trebacz/tower-of-time-game](https://github.com/maciej-trebacz/tower-of-time-game) | 369 | 23 | TypeScript | MIT | 2025-07-04 |
 | [levz0r/ASCIIKeyboard](https://github.com/levz0r/ASCIIKeyboard) | 0 | 0 | Swift | MIT | 2025-11-27 |
-| [indragiek/Context](https://github.com/indragiek/Context) | 799 | 34 | Swift | MIT | 2026-02-11 |
+| [indragiek/Context](https://github.com/indragiek/Context) | 798 | 34 | Swift | MIT | 2026-02-11 |
 | krypdoh/TCKR | - | - | - | - | 请求失败 404 |
-| [levz0r/markdown-printer](https://github.com/levz0r/markdown-printer) | 33 | 2 | JavaScript | MIT | 2026-07-20 |
+| [levz0r/markdown-printer](https://github.com/levz0r/markdown-printer) | 34 | 2 | JavaScript | MIT | 2026-07-21 |
 | [jimlawruk/aldi-prices](https://github.com/jimlawruk/aldi-prices) | 2 | 1 | TypeScript | - | 2026-06-13 |
 
 ## 说明
