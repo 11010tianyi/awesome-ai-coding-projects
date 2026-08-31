@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-08-30T08:24:17.291Z",
+  "generatedAt": "2026-08-31T08:44:31.431Z",
   "summary": {
     "ok": 31,
     "maintenance": 1,
-    "broken": 1,
-    "unknown": 4
+    "broken": 2,
+    "unknown": 3
   },
   "results": [
     {
@@ -14,7 +14,7 @@
       "finalUrl": "https://fly.pieter.com/",
       "bytes": 493396,
       "title": "fly.pieter.com",
-      "checkedAt": "2026-08-30T08:23:54.216Z",
+      "checkedAt": "2026-08-31T08:44:09.850Z",
       "state": "ok"
     },
     {
@@ -24,7 +24,7 @@
       "finalUrl": "https://vibesail.com/",
       "bytes": 16859,
       "title": "Free Online Sailing Simulator &amp; Game | VibeSail",
-      "checkedAt": "2026-08-30T08:23:54.506Z",
+      "checkedAt": "2026-08-31T08:44:10.023Z",
       "state": "ok"
     },
     {
@@ -34,7 +34,7 @@
       "finalUrl": "https://society.fail/",
       "bytes": 1229,
       "title": "Under Maintenance | Hatchbox.io",
-      "checkedAt": "2026-08-30T08:23:54.998Z",
+      "checkedAt": "2026-08-31T08:44:10.630Z",
       "state": "maintenance"
     },
     {
@@ -43,7 +43,7 @@
       "status": 200,
       "source": "github-api",
       "title": "Shpigford/society-fail",
-      "checkedAt": "2026-08-30T08:23:54.998Z",
+      "checkedAt": "2026-08-31T08:44:10.630Z",
       "state": "ok"
     },
     {
@@ -52,7 +52,7 @@
       "status": 200,
       "source": "github-api",
       "title": "maciej-trebacz/tower-of-time-game",
-      "checkedAt": "2026-08-30T08:23:54.998Z",
+      "checkedAt": "2026-08-31T08:44:10.630Z",
       "state": "ok"
     },
     {
@@ -62,7 +62,7 @@
       "finalUrl": "https://arcade.oyster.to/",
       "bytes": 50561,
       "title": "Oyster Arcade",
-      "checkedAt": "2026-08-30T08:23:55.256Z",
+      "checkedAt": "2026-08-31T08:44:10.854Z",
       "state": "ok"
     },
     {
@@ -72,7 +72,7 @@
       "finalUrl": "https://great-taxi-assignment.netlify.app/",
       "bytes": 3780,
       "title": "Great Taxi Assignment: Vibe City",
-      "checkedAt": "2026-08-30T08:23:55.566Z",
+      "checkedAt": "2026-08-31T08:44:10.981Z",
       "state": "ok"
     },
     {
@@ -82,7 +82,7 @@
       "finalUrl": "https://www.vector-tango.com/",
       "bytes": 32370,
       "title": "VECTOR. TANGO.",
-      "checkedAt": "2026-08-30T08:23:55.761Z",
+      "checkedAt": "2026-08-31T08:44:11.098Z",
       "state": "ok"
     },
     {
@@ -92,7 +92,7 @@
       "finalUrl": "https://www.menugen.app/",
       "bytes": 9727,
       "title": "MenuGen - AI Menu Image Generator",
-      "checkedAt": "2026-08-30T08:23:56.112Z",
+      "checkedAt": "2026-08-31T08:44:11.596Z",
       "state": "ok"
     },
     {
@@ -102,7 +102,7 @@
       "finalUrl": "https://printpigeon.co.uk/",
       "bytes": 160297,
       "title": "PrintPigeon | Send Letters Online UK – Print &amp; Post Letters",
-      "checkedAt": "2026-08-30T08:23:56.487Z",
+      "checkedAt": "2026-08-31T08:44:11.988Z",
       "state": "ok"
     },
     {
@@ -112,7 +112,7 @@
       "finalUrl": "https://dummyforms.com/",
       "bytes": 1703,
       "title": "DummyForms - Create Beautiful Forms in Minutes",
-      "checkedAt": "2026-08-30T08:23:57.157Z",
+      "checkedAt": "2026-08-31T08:44:12.631Z",
       "state": "ok"
     },
     {
@@ -122,7 +122,7 @@
       "finalUrl": "https://mybabylogger.com/",
       "bytes": 75462,
       "title": "MyBabyLogger - #1 Baby Tracker App | Feeding, Sleep &amp; Diaper Tracking",
-      "checkedAt": "2026-08-30T08:23:58.031Z",
+      "checkedAt": "2026-08-31T08:44:13.274Z",
       "state": "ok"
     },
     {
@@ -132,7 +132,7 @@
       "finalUrl": "https://jenicards.com/",
       "bytes": 107,
       "title": "",
-      "checkedAt": "2026-08-30T08:23:58.268Z",
+      "checkedAt": "2026-08-31T08:44:13.546Z",
       "state": "broken"
     },
     {
@@ -142,14 +142,14 @@
       "finalUrl": "https://mixcard.me/",
       "bytes": 33363,
       "title": "MIXCARD — A Playlist Card, Printed and Mailed",
-      "checkedAt": "2026-08-30T08:23:58.546Z",
+      "checkedAt": "2026-08-31T08:44:13.779Z",
       "state": "ok"
     },
     {
       "url": "https://mplscoffee.com",
       "ok": false,
       "error": "fetch failed",
-      "checkedAt": "2026-08-30T08:24:09.040Z",
+      "checkedAt": "2026-08-31T08:44:24.271Z",
       "state": "unknown"
     },
     {
@@ -159,7 +159,7 @@
       "finalUrl": "https://www.courtsynccalendar.com/",
       "bytes": 18228,
       "title": "CourtSync Calendar – Instantly Extract Court Deadlines from PDFs",
-      "checkedAt": "2026-08-30T08:24:09.425Z",
+      "checkedAt": "2026-08-31T08:44:24.463Z",
       "state": "ok"
     },
     {
@@ -169,7 +169,7 @@
       "finalUrl": "https://joyful-froyo-b4482b.netlify.app/",
       "bytes": 0,
       "title": "",
-      "checkedAt": "2026-08-30T08:24:09.620Z",
+      "checkedAt": "2026-08-31T08:44:24.679Z",
       "state": "unknown"
     },
     {
@@ -179,7 +179,7 @@
       "finalUrl": "https://mealmuse.ai/",
       "bytes": 2431,
       "title": "MealMuse - Smart Meal Planning, Simplified",
-      "checkedAt": "2026-08-30T08:24:10.558Z",
+      "checkedAt": "2026-08-31T08:44:25.624Z",
       "state": "ok"
     },
     {
@@ -189,7 +189,7 @@
       "finalUrl": "https://www.paddles.ai/",
       "bytes": 19033,
       "title": "Paddles | The #1 Pickleball app for AI Analysis, match tracking and personal stats",
-      "checkedAt": "2026-08-30T08:24:11.151Z",
+      "checkedAt": "2026-08-31T08:44:25.923Z",
       "state": "ok"
     },
     {
@@ -199,14 +199,14 @@
       "finalUrl": "https://carbscan.ai/",
       "bytes": 2208,
       "title": "CarbScan – Instantly Count Carbs for Diabetes & Blood Sugar Management",
-      "checkedAt": "2026-08-30T08:24:11.434Z",
+      "checkedAt": "2026-08-31T08:44:26.228Z",
       "state": "ok"
     },
     {
       "url": "https://timelessmemories.me",
       "ok": false,
       "error": "fetch failed",
-      "checkedAt": "2026-08-30T08:24:11.515Z",
+      "checkedAt": "2026-08-31T08:44:26.363Z",
       "state": "unknown"
     },
     {
@@ -216,7 +216,7 @@
       "finalUrl": "https://stories-of-life.vercel.app/",
       "bytes": 806,
       "title": "Stories of Life - Bedtime Stories for Your Family",
-      "checkedAt": "2026-08-30T08:24:11.649Z",
+      "checkedAt": "2026-08-31T08:44:26.495Z",
       "state": "ok"
     },
     {
@@ -226,7 +226,7 @@
       "finalUrl": "https://www.flowbound.app/",
       "bytes": 175221,
       "title": "Flowcus - Get more done with ease and joy",
-      "checkedAt": "2026-08-30T08:24:12.107Z",
+      "checkedAt": "2026-08-31T08:44:26.883Z",
       "state": "ok"
     },
     {
@@ -234,9 +234,9 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://refetch.io/",
-      "bytes": 146057,
+      "bytes": 146032,
       "title": "Refetch",
-      "checkedAt": "2026-08-30T08:24:13.199Z",
+      "checkedAt": "2026-08-31T08:44:27.634Z",
       "state": "ok"
     },
     {
@@ -246,7 +246,7 @@
       "finalUrl": "https://beatseek.io/",
       "bytes": 67761,
       "title": "BeatSeek - Professional DJ Track Library | SoundCloud Search Tool",
-      "checkedAt": "2026-08-30T08:24:14.565Z",
+      "checkedAt": "2026-08-31T08:44:29.229Z",
       "state": "ok"
     },
     {
@@ -256,7 +256,7 @@
       "finalUrl": "https://standup-buddy.lovable.app/",
       "bytes": 838,
       "title": "Standup Buddy",
-      "checkedAt": "2026-08-30T08:24:15.520Z",
+      "checkedAt": "2026-08-31T08:44:29.946Z",
       "state": "ok"
     },
     {
@@ -266,7 +266,7 @@
       "finalUrl": "https://lash-map-tracker.replit.app/",
       "bytes": 1069,
       "title": "LashTracker - Track Your Lash Applications",
-      "checkedAt": "2026-08-30T08:24:15.738Z",
+      "checkedAt": "2026-08-31T08:44:30.205Z",
       "state": "ok"
     },
     {
@@ -276,7 +276,7 @@
       "finalUrl": "https://howmanylayersidag.se/",
       "bytes": 10961,
       "title": "How many layers should I wear today?",
-      "checkedAt": "2026-08-30T08:24:16.556Z",
+      "checkedAt": "2026-08-31T08:44:30.899Z",
       "state": "ok"
     },
     {
@@ -285,7 +285,7 @@
       "status": 200,
       "source": "github-api",
       "title": "levz0r/ASCIIKeyboard",
-      "checkedAt": "2026-08-30T08:24:16.556Z",
+      "checkedAt": "2026-08-31T08:44:30.899Z",
       "state": "ok"
     },
     {
@@ -294,27 +294,27 @@
       "status": 200,
       "source": "github-api",
       "title": "indragiek/Context",
-      "checkedAt": "2026-08-30T08:24:16.556Z",
+      "checkedAt": "2026-08-31T08:44:30.899Z",
       "state": "ok"
     },
     {
       "url": "https://apps.apple.com/app/poker-slam/id6746056702",
       "ok": false,
-      "status": 429,
+      "status": 404,
       "finalUrl": "https://apps.apple.com/app/poker-slam/id6746056702",
       "bytes": 2383,
       "title": "",
-      "checkedAt": "2026-08-30T08:24:16.676Z",
-      "state": "unknown"
+      "checkedAt": "2026-08-31T08:44:31.029Z",
+      "state": "broken"
     },
     {
       "url": "https://play.google.com/store/apps/details?id=com.blobware.crashyzorg",
       "ok": true,
       "status": 200,
       "finalUrl": "https://play.google.com/store/apps/details?id=com.blobware.crashyzorg",
-      "bytes": 1200323,
+      "bytes": 1200353,
       "title": "Crashy Zorg - Apps on Google Play",
-      "checkedAt": "2026-08-30T08:24:16.966Z",
+      "checkedAt": "2026-08-31T08:44:31.165Z",
       "state": "ok"
     },
     {
@@ -322,9 +322,9 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://play.google.com/store/apps/details?id=com.blazingbanana.rallymesh",
-      "bytes": 1157439,
+      "bytes": 1157481,
       "title": "RallyMesh - Apps on Google Play",
-      "checkedAt": "2026-08-30T08:24:17.097Z",
+      "checkedAt": "2026-08-31T08:44:31.257Z",
       "state": "ok"
     },
     {
@@ -333,7 +333,7 @@
       "status": 404,
       "source": "github-api",
       "title": "krypdoh/tckr",
-      "checkedAt": "2026-08-30T08:24:17.097Z",
+      "checkedAt": "2026-08-31T08:44:31.257Z",
       "state": "ok"
     },
     {
@@ -342,7 +342,7 @@
       "status": 200,
       "source": "github-api",
       "title": "levz0r/markdown-printer",
-      "checkedAt": "2026-08-30T08:24:17.097Z",
+      "checkedAt": "2026-08-31T08:44:31.257Z",
       "state": "ok"
     },
     {
@@ -350,9 +350,9 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://chromewebstore.google.com/detail/decayblock/lpljcnalipecdlmafjahhdeghgdepdjg",
-      "bytes": 626433,
+      "bytes": 626431,
       "title": "DecayBlock - Chrome Web Store",
-      "checkedAt": "2026-08-30T08:24:17.291Z",
+      "checkedAt": "2026-08-31T08:44:31.431Z",
       "state": "ok"
     },
     {
@@ -361,7 +361,7 @@
       "status": 200,
       "source": "github-api",
       "title": "jimlawruk/aldi-prices",
-      "checkedAt": "2026-08-30T08:24:17.291Z",
+      "checkedAt": "2026-08-31T08:44:31.431Z",
       "state": "ok"
     }
   ]
