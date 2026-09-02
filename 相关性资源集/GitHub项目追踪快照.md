@@ -1,7 +1,7 @@
 # GitHub 项目追踪快照
 
 > 由 `scripts/update-github-metadata.mjs` 自动生成。  
-> 生成时间：2026-09-01T07:53:08.661Z
+> 生成时间：2026-09-02T07:10:26.015Z
 
 | 项目 | Stars | Forks | 语言 | License | 最近 Push |
 |:---|---:|---:|:---|:---|:---|
@@ -10,7 +10,7 @@
 | [levz0r/ASCIIKeyboard](https://github.com/levz0r/ASCIIKeyboard) | 0 | 0 | Swift | MIT | 2025-11-27 |
 | [indragiek/Context](https://github.com/indragiek/Context) | 800 | 36 | Swift | MIT | 2026-02-11 |
 | krypdoh/TCKR | - | - | - | - | 请求失败 404 |
-| [levz0r/markdown-printer](https://github.com/levz0r/markdown-printer) | 38 | 3 | JavaScript | MIT | 2026-08-28 |
+| [levz0r/markdown-printer](https://github.com/levz0r/markdown-printer) | 38 | 3 | JavaScript | MIT | 2026-09-01 |
 | [jimlawruk/aldi-prices](https://github.com/jimlawruk/aldi-prices) | 2 | 1 | TypeScript | - | 2026-08-16 |
 
 ## 说明
