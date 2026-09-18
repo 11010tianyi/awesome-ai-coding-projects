@@ -6,8 +6,8 @@
     "url": "https://keygraph.io/",
     "github": "https://github.com/KeygraphHQ/shannon",
     "description": "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-    "stars": 48082,
-    "forks": 5510,
+    "stars": 48124,
+    "forks": 5518,
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "topics": [
@@ -34,7 +34,7 @@
     ],
     "pushedAt": "2026-09-08T21:04:43Z",
     "discoveredAt": "2026-09-03T07:14:57.450Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibe coded\" in:readme,description",
       "\"vibe-coded\" in:readme,description",
@@ -53,8 +53,8 @@
     "url": "https://onlook.com",
     "github": "https://github.com/onlook-dev/onlook",
     "description": "The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI",
-    "stars": 26749,
-    "forks": 2100,
+    "stars": 26757,
+    "forks": 2102,
     "language": "TypeScript",
     "license": "Apache-2.0",
     "topics": [
@@ -80,7 +80,7 @@
     ],
     "pushedAt": "2026-08-25T01:06:22Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"bolt.new\" in:readme,description",
       "\"Replit Agent\" app in:readme,description"
@@ -164,7 +164,7 @@
     "url": "https://keepassxc.org/",
     "github": "https://github.com/keepassxreboot/keepassxc",
     "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
-    "stars": 28836,
+    "stars": 28843,
     "forks": 1910,
     "language": "C++",
     "license": "NOASSERTION",
@@ -182,9 +182,9 @@
       "windows",
       "yubikey"
     ],
-    "pushedAt": "2026-09-16T22:04:57Z",
+    "pushedAt": "2026-09-18T06:22:22Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibe coded\" in:readme,description",
       "\"vibe-coded\" in:readme,description"
@@ -202,8 +202,8 @@
     "url": "https://mem0.ai",
     "github": "https://github.com/mem0ai/mem0",
     "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
-    "stars": 65474,
-    "forks": 7676,
+    "stars": 65552,
+    "forks": 7689,
     "language": "Python",
     "license": "Apache-2.0",
     "topics": [
@@ -222,9 +222,9 @@
       "rag",
       "state-management"
     ],
-    "pushedAt": "2026-09-17T05:46:52Z",
+    "pushedAt": "2026-09-18T01:25:24Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibecoded\" in:readme,description"
     ],
@@ -265,14 +265,14 @@
     "url": "https://dimensional.org",
     "github": "https://github.com/dimensionalOS/dimos",
     "description": "Dimensional is the agentic operating system for physical space. Command humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
-    "stars": 4503,
-    "forks": 803,
+    "stars": 4508,
+    "forks": 808,
     "language": "Python",
     "license": "NOASSERTION",
     "topics": [],
-    "pushedAt": "2026-09-17T07:01:03Z",
+    "pushedAt": "2026-09-18T07:07:47Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibecoded\" in:readme,description"
     ],
@@ -345,7 +345,7 @@
     "url": "https://cloudcli.ai",
     "github": "https://github.com/siteboon/claudecodeui",
     "description": "Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely.",
-    "stars": 13715,
+    "stars": 13723,
     "forks": 1948,
     "language": "TypeScript",
     "license": "AGPL-3.0",
@@ -363,9 +363,9 @@
       "react",
       "ui"
     ],
-    "pushedAt": "2026-09-16T11:39:03Z",
+    "pushedAt": "2026-09-18T02:40:58Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -398,7 +398,7 @@
     ],
     "pushedAt": "2026-05-23T11:52:19Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -415,7 +415,7 @@
     "url": "https://github.com/github/CopilotForXcode",
     "github": "https://github.com/github/CopilotForXcode",
     "description": "AI coding assistant for Xcode",
-    "stars": 6297,
+    "stars": 6299,
     "forks": 2023,
     "language": "Swift",
     "license": "MIT",
@@ -432,7 +432,7 @@
     ],
     "pushedAt": "2026-09-10T21:24:57Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"Copilot agent\" app in:readme,description"
     ],
@@ -533,8 +533,8 @@
     "url": "https://Echobird.ai",
     "github": "https://github.com/edison7009/EchoBird",
     "description": "One-click install + model switch:Claude Code,Codex CLI (OpenAI), Grok Build (xAI), DeepSeek Harness, Kimi Code (Moonshot) ,Qwen Code,Aider,OpenCode,MiMo Code (Xiaomi),ZCode (Z.AI),OpenClaw,Pi,OpenScience,Vibe-Trading,Claude Desktop (3P profile),ChatGPT desktop,OpenCode Desktop,",
-    "stars": 3249,
-    "forks": 368,
+    "stars": 3255,
+    "forks": 371,
     "language": "Rust",
     "license": "MIT",
     "topics": [
@@ -548,9 +548,9 @@
       "opencode",
       "zcode"
     ],
-    "pushedAt": "2026-09-14T11:39:29Z",
+    "pushedAt": "2026-09-17T10:26:20Z",
     "discoveredAt": "2026-07-21T05:32:03.114Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibe coded app\" in:readme,description"
     ],
@@ -567,8 +567,8 @@
     "url": "https://awarexone.com",
     "github": "https://github.com/awarexone/Agentic-Bug-Hunter",
     "description": "AI-powered bug bounty hunting toolkit that works with or without subscription.",
-    "stars": 4866,
-    "forks": 866,
+    "stars": 4917,
+    "forks": 869,
     "language": "Python",
     "license": "MIT",
     "topics": [
@@ -588,7 +588,7 @@
     ],
     "pushedAt": "2026-09-17T05:36:54Z",
     "discoveredAt": "2026-09-16T07:46:11.512Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibe coded app\" in:readme,description"
     ],
@@ -599,20 +599,110 @@
     "learnFrom": "待人工复核：确认是否为 AI coding 成品项目，以及是否值得晋升主榜"
   },
   {
+    "name": "Open-Generative-AI",
+    "fullName": "Anil-matcha/Open-Generative-AI",
+    "category": "Candidate",
+    "url": "https://muapi.ai/open-generative-ai?utm_source=github&utm_medium=about&utm_campaign=open-generative-ai",
+    "github": "https://github.com/Anil-matcha/Open-Generative-AI",
+    "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+    "stars": 28731,
+    "forks": 5177,
+    "language": "JavaScript",
+    "license": "MIT",
+    "topics": [
+      "ai-art-generator",
+      "ai-image-generation",
+      "ai-video-generation",
+      "creative-tools",
+      "fal-ai-alternative",
+      "generative-ai",
+      "image-to-video",
+      "invideo-alternative",
+      "javascript",
+      "kling-ai",
+      "lipsync",
+      "midjourney-alternative",
+      "muapi",
+      "open-source",
+      "seedance2",
+      "sora-alternative",
+      "text-to-image",
+      "text-to-video",
+      "uncensored",
+      "wan-video"
+    ],
+    "pushedAt": "2026-09-17T15:37:34Z",
+    "discoveredAt": "2026-09-18T07:28:33.134Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
+    "queryHits": [
+      "\"vibecoded\" in:readme,description"
+    ],
+    "confidence": "C",
+    "status": "candidate",
+    "discoveryScore": 78,
+    "aiCodingEvidence": "GitHub 搜索命中：\"vibecoded\" in:readme,description",
+    "learnFrom": "待人工复核：确认是否为 AI coding 成品项目，以及是否值得晋升主榜"
+  },
+  {
+    "name": "AI-Youtube-Shorts-Generator",
+    "fullName": "Anil-matcha/AI-Youtube-Shorts-Generator",
+    "category": "CLI Tool",
+    "url": "https://www.vadoo.tv/ai-youtube-shorts-generator",
+    "github": "https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator",
+    "description": "Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper transcription, and auto vertical cropping — free, no watermarks, no per-clip credits.",
+    "stars": 5013,
+    "forks": 923,
+    "language": "Python",
+    "license": "MIT",
+    "topics": [
+      "2short-ai-alternative",
+      "ai-clip-generator",
+      "ai-clipping",
+      "auto-clip",
+      "auto-crop",
+      "highlight-detection",
+      "klap-alternative",
+      "llm",
+      "open-source",
+      "opus-clip-alternative",
+      "reels",
+      "shorts-maker",
+      "submagic-alternative",
+      "tiktok",
+      "vertical-video",
+      "video-editing",
+      "vidyo-ai-alternative",
+      "viral-clips",
+      "whisper",
+      "youtube-shorts"
+    ],
+    "pushedAt": "2026-09-17T15:37:33Z",
+    "discoveredAt": "2026-09-18T07:28:33.134Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
+    "queryHits": [
+      "\"vibecoded\" in:readme,description"
+    ],
+    "confidence": "C",
+    "status": "candidate",
+    "discoveryScore": 78,
+    "aiCodingEvidence": "GitHub 搜索命中：\"vibecoded\" in:readme,description",
+    "learnFrom": "待人工复核：确认是否为 AI coding 成品项目，以及是否值得晋升主榜"
+  },
+  {
     "name": "vibe-mouse",
     "fullName": "CSCB/vibe-mouse",
     "category": "Mobile App",
     "url": "https://github.com/CSCB/vibe-mouse",
     "github": "https://github.com/CSCB/vibe-mouse",
     "description": "Core open-source Vibecoding interactive mouse project, belonging to a self-developed open-source system including the nation's first open-source robot actuator and stepless mobile intelligent monitoring solution.",
-    "stars": 1181,
+    "stars": 1180,
     "forks": 0,
     "language": "Python",
     "license": "AGPL-3.0",
     "topics": [],
     "pushedAt": "2026-07-24T03:22:47Z",
     "discoveredAt": "2026-08-13T04:22:57.026Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibecoded\" in:readme,description"
     ],
@@ -629,8 +719,8 @@
     "url": "https://openlair.github.io/dr-claw/",
     "github": "https://github.com/OpenLAIR/dr-claw",
     "description": "A Super AI Lab with massive AI Doctors as Assistants. Best IDE for Research via AI Power. ",
-    "stars": 1129,
-    "forks": 125,
+    "stars": 1131,
+    "forks": 126,
     "language": "JavaScript",
     "license": "NOASSERTION",
     "topics": [
@@ -644,9 +734,9 @@
       "paper-writing",
       "research-assistant"
     ],
-    "pushedAt": "2026-09-13T22:52:17Z",
+    "pushedAt": "2026-09-17T18:45:41Z",
     "discoveredAt": "2026-07-17T05:24:47.238Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -736,7 +826,7 @@
     "url": "https://pilot.quantflow.studio/",
     "github": "https://github.com/qf-studio/pilot",
     "description": "AI that ships your tickets.",
-    "stars": 684,
+    "stars": 686,
     "forks": 54,
     "language": "Go",
     "license": "NOASSERTION",
@@ -755,7 +845,7 @@
     ],
     "pushedAt": "2026-09-15T08:36:53Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -773,7 +863,7 @@
     "github": "https://github.com/leonickson1/Swiftlet",
     "description": "Swiftlet is a Swift and Metal runtime that runs large Qwen Mixture-of-Experts models locally on Apple devices by streaming expert weights from storage, enabling 35B and 80B models to run with low RAM, including on iPhone.",
     "stars": 638,
-    "forks": 35,
+    "forks": 36,
     "language": "Swift",
     "license": "Apache-2.0",
     "topics": [
@@ -785,7 +875,7 @@
     ],
     "pushedAt": "2026-09-14T15:18:48Z",
     "discoveredAt": "2026-08-08T03:47:04.037Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -802,7 +892,7 @@
     "url": "https://chromewebstore.google.com/detail/cpdown/knnaflplggjdedobhbidojmmnocfbopf",
     "github": "https://github.com/ysm-dev/cpdown",
     "description": "📥 cpdown - Copy to clipboard any webpage content/youtube subtitle as clean markdown with one click or shortcut",
-    "stars": 583,
+    "stars": 582,
     "forks": 31,
     "language": "TypeScript",
     "license": "MIT",
@@ -818,7 +908,7 @@
     ],
     "pushedAt": "2026-09-14T01:59:19Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -835,14 +925,14 @@
     "url": "https://github.com/wuxiran/cc-pane",
     "github": "https://github.com/wuxiran/cc-pane",
     "description": "Multi-instance split-pane manager for Claude Code — a cross-platform desktop app built with Tauri 2",
-    "stars": 568,
+    "stars": 567,
     "forks": 58,
     "language": "TypeScript",
     "license": "GPL-3.0",
     "topics": [],
     "pushedAt": "2026-09-16T00:45:30Z",
     "discoveredAt": "2026-08-11T03:56:44.063Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -901,7 +991,7 @@
     "topics": [],
     "pushedAt": "2026-03-31T08:03:16Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibe coded app\" in:readme,description"
     ],
@@ -918,14 +1008,14 @@
     "url": "https://facebook.github.io/PathPicker/",
     "github": "https://github.com/facebook/PathPicker",
     "description": "PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.",
-    "stars": 5235,
-    "forks": 282,
+    "stars": 5238,
+    "forks": 281,
     "language": "Python",
     "license": "MIT",
     "topics": [],
     "pushedAt": "2024-09-05T13:30:40Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -966,7 +1056,7 @@
     "url": "https://github.com/tugcantopaloglu/openclaw-dashboard/releases/tag/v2.0.0",
     "github": "https://github.com/tugcantopaloglu/openclaw-dashboard",
     "description": "🔐 Secure, real-time monitoring dashboard for OpenClaw AI agents. Auth, TOTP MFA, cost tracking, live feed, memory browser and more.",
-    "stars": 701,
+    "stars": 702,
     "forks": 122,
     "language": "HTML",
     "license": null,
@@ -989,7 +1079,7 @@
     ],
     "pushedAt": "2026-03-17T10:49:12Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -1006,7 +1096,7 @@
     "url": "https://github.com/humaidhahm/opencode-pentester",
     "github": "https://github.com/humaidhahm/opencode-pentester",
     "description": "Full-spectrum security assessment tool for opencode — defensive code audit (17 vulnerability categories) + offensive penetration testing (63 attack categories, 15 agents, 11 domains). AI-powered AppSec, red teaming, and pentesting for vibe-coded apps.",
-    "stars": 35,
+    "stars": 36,
     "forks": 4,
     "language": "Shell",
     "license": "NOASSERTION",
@@ -1034,7 +1124,7 @@
     ],
     "pushedAt": "2026-09-09T10:20:01Z",
     "discoveredAt": "2026-08-22T03:11:14.154Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1078,7 +1168,7 @@
     ],
     "pushedAt": "2026-09-02T07:32:12Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1125,7 +1215,7 @@
     "url": "https://odrive.plab.workers.dev",
     "github": "https://github.com/fa7ar/o-drive",
     "description": "ODrive is a storage management platform that brings multiple providers and accounts into one workspace.",
-    "stars": 11,
+    "stars": 13,
     "forks": 7,
     "language": "TypeScript",
     "license": null,
@@ -1135,13 +1225,13 @@
     ],
     "pushedAt": "2026-09-17T07:37:13Z",
     "discoveredAt": "2026-09-16T07:46:11.512Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description"
     ],
     "confidence": "C",
     "status": "candidate",
-    "discoveryScore": 45,
+    "discoveryScore": 46,
     "aiCodingEvidence": "GitHub 搜索命中：\"built with Lovable\" in:readme,description",
     "learnFrom": "待人工复核：确认是否为 AI coding 成品项目，以及是否值得晋升主榜"
   },
@@ -1159,7 +1249,7 @@
     "topics": [],
     "pushedAt": "2025-12-02T19:16:53Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description"
     ],
@@ -1181,9 +1271,9 @@
     "language": "JavaScript",
     "license": null,
     "topics": [],
-    "pushedAt": "2026-09-07T10:43:48Z",
+    "pushedAt": "2026-09-18T07:19:28Z",
     "discoveredAt": "2026-08-03T05:54:43.347Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Lovable\" app in:readme,description"
     ],
@@ -1317,7 +1407,7 @@
     ],
     "pushedAt": "2026-07-12T07:58:23Z",
     "discoveredAt": "2026-06-30T06:35:39.522Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1341,7 +1431,7 @@
     "topics": [],
     "pushedAt": "2026-06-16T01:56:37Z",
     "discoveredAt": "2026-06-16T07:46:52.518Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1365,7 +1455,7 @@
     "topics": [],
     "pushedAt": "2026-05-22T12:41:00Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1389,7 +1479,7 @@
     "topics": [],
     "pushedAt": "2026-08-04T09:18:16Z",
     "discoveredAt": "2026-08-06T05:29:21.498Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1413,7 +1503,7 @@
     "topics": [],
     "pushedAt": "2026-04-20T20:17:40Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1437,7 +1527,7 @@
     "topics": [],
     "pushedAt": "2024-11-29T11:26:00Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1511,7 +1601,7 @@
     ],
     "pushedAt": "2026-04-04T15:47:27Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description",
       "\"built with Lovable\" app in:readme,description"
@@ -1519,40 +1609,6 @@
     "confidence": "C",
     "status": "candidate",
     "discoveryScore": 30,
-    "aiCodingEvidence": "GitHub 搜索命中：\"built with Lovable\" in:readme,description；\"built with Lovable\" app in:readme,description",
-    "learnFrom": "待人工复核：确认是否为 AI coding 成品项目，以及是否值得晋升主榜"
-  },
-  {
-    "name": "stakeflow",
-    "fullName": "KabriAcid/stakeflow",
-    "category": "Candidate",
-    "url": "https://stakeflows.vercel.app",
-    "github": "https://github.com/KabriAcid/stakeflow",
-    "description": "Stakeflow - A unified dashboard application for managing user investments, stakes, deposits, and withdrawals with separate admin and user portals.",
-    "stars": 6,
-    "forks": 0,
-    "language": "TypeScript",
-    "license": null,
-    "topics": [
-      "deposits",
-      "finance",
-      "fintech",
-      "investment",
-      "recharts",
-      "stakeflow",
-      "virtual-account",
-      "withdraw"
-    ],
-    "pushedAt": "2026-05-13T21:32:15Z",
-    "discoveredAt": "2026-08-20T03:13:53.450Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
-    "queryHits": [
-      "\"built with Lovable\" in:readme,description",
-      "\"built with Lovable\" app in:readme,description"
-    ],
-    "confidence": "C",
-    "status": "candidate",
-    "discoveryScore": 28,
     "aiCodingEvidence": "GitHub 搜索命中：\"built with Lovable\" in:readme,description；\"built with Lovable\" app in:readme,description",
     "learnFrom": "待人工复核：确认是否为 AI coding 成品项目，以及是否值得晋升主榜"
   },
@@ -1570,7 +1626,7 @@
     "topics": [],
     "pushedAt": "2025-11-14T08:54:39Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description",
       "\"built with Lovable\" app in:readme,description"
@@ -1667,7 +1723,7 @@
     "topics": [],
     "pushedAt": "2026-08-08T08:19:09Z",
     "discoveredAt": "2026-07-19T05:33:30.810Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1723,7 +1779,7 @@
     "topics": [],
     "pushedAt": "2026-01-29T22:35:48Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1731,6 +1787,39 @@
     "status": "candidate",
     "discoveryScore": 22,
     "aiCodingEvidence": "GitHub 搜索命中：\"vibe coded game\" in:readme,description",
+    "learnFrom": "待人工复核：确认是否为 AI coding 成品项目，以及是否值得晋升主榜"
+  },
+  {
+    "name": "stakeflow",
+    "fullName": "KabriAcid/stakeflow",
+    "category": "Candidate",
+    "url": "https://stakeflows.vercel.app",
+    "github": "https://github.com/KabriAcid/stakeflow",
+    "description": "Stakeflow - A unified dashboard application for managing user investments, stakes, deposits, and withdrawals with separate admin and user portals.",
+    "stars": 6,
+    "forks": 0,
+    "language": "TypeScript",
+    "license": null,
+    "topics": [
+      "deposits",
+      "finance",
+      "fintech",
+      "investment",
+      "recharts",
+      "stakeflow",
+      "virtual-account",
+      "withdraw"
+    ],
+    "pushedAt": "2026-05-13T21:32:15Z",
+    "discoveredAt": "2026-08-20T03:13:53.450Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
+    "queryHits": [
+      "\"built with Lovable\" app in:readme,description"
+    ],
+    "confidence": "C",
+    "status": "candidate",
+    "discoveryScore": 20,
+    "aiCodingEvidence": "GitHub 搜索命中：\"built with Lovable\" app in:readme,description",
     "learnFrom": "待人工复核：确认是否为 AI coding 成品项目，以及是否值得晋升主榜"
   },
   {
@@ -1747,7 +1836,7 @@
     "topics": [],
     "pushedAt": "2025-12-25T07:54:06Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description"
     ],
@@ -1781,7 +1870,7 @@
     ],
     "pushedAt": "2026-03-23T17:08:41Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"built with Lovable\" app in:readme,description"
     ],
@@ -1983,7 +2072,7 @@
     "topics": [],
     "pushedAt": "2025-03-26T18:38:38Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -2007,7 +2096,7 @@
     "topics": [],
     "pushedAt": "2025-10-27T16:03:06Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -2055,7 +2144,7 @@
     "topics": [],
     "pushedAt": "2026-03-24T17:50:53Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -2103,7 +2192,7 @@
     "topics": [],
     "pushedAt": "2026-01-29T22:13:55Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-09-17T07:48:20.260Z",
+    "lastSeenAt": "2026-09-18T07:28:33.134Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
