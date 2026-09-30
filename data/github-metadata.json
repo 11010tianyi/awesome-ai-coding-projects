@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T08:42:13.797Z",
+  "generatedAt": "2026-09-30T08:42:42.331Z",
   "metadata": [
     {
       "owner": "Shpigford",
@@ -59,13 +59,13 @@
       "fullName": "indragiek/Context",
       "htmlUrl": "https://github.com/indragiek/Context",
       "description": "Native macOS client for Model Context Protocol (MCP)",
-      "stars": 805,
+      "stars": 804,
       "forks": 36,
       "openIssues": 12,
       "language": "Swift",
       "license": "MIT",
       "pushedAt": "2026-02-11T05:27:45Z",
-      "updatedAt": "2026-09-29T02:03:55Z",
+      "updatedAt": "2026-09-29T21:19:25Z",
       "archived": false,
       "homepage": null
     },
@@ -101,7 +101,7 @@
       "htmlUrl": "https://github.com/jimlawruk/aldi-prices",
       "description": null,
       "stars": 2,
-      "forks": 1,
+      "forks": 0,
       "openIssues": 0,
       "language": "TypeScript",
       "license": null,
