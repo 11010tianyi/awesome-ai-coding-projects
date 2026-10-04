@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T08:17:38.630Z",
+  "generatedAt": "2026-10-04T08:32:25.551Z",
   "metadata": [
     {
       "owner": "Shpigford",
@@ -59,13 +59,13 @@
       "fullName": "indragiek/Context",
       "htmlUrl": "https://github.com/indragiek/Context",
       "description": "Native macOS client for Model Context Protocol (MCP)",
-      "stars": 804,
+      "stars": 805,
       "forks": 36,
       "openIssues": 12,
       "language": "Swift",
       "license": "MIT",
       "pushedAt": "2026-02-11T05:27:45Z",
-      "updatedAt": "2026-09-29T21:19:25Z",
+      "updatedAt": "2026-10-04T03:26:28Z",
       "archived": false,
       "homepage": null
     },
