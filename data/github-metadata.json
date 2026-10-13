@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T09:24:50.835Z",
+  "generatedAt": "2026-10-13T09:33:41.707Z",
   "metadata": [
     {
       "owner": "Shpigford",
@@ -26,7 +26,7 @@
       "htmlUrl": "https://github.com/maciej-trebacz/tower-of-time-game",
       "description": "Vibe coded Tower Defense type of game made for a game jam",
       "stars": 377,
-      "forks": 28,
+      "forks": 29,
       "openIssues": 1,
       "language": "TypeScript",
       "license": "MIT",
