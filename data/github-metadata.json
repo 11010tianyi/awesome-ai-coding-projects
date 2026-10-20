@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T07:55:12.954Z",
+  "generatedAt": "2026-10-20T07:44:27.225Z",
   "metadata": [
     {
       "owner": "Shpigford",
@@ -61,11 +61,11 @@
       "description": "Native macOS client for Model Context Protocol (MCP)",
       "stars": 805,
       "forks": 36,
-      "openIssues": 12,
+      "openIssues": 13,
       "language": "Swift",
       "license": "MIT",
       "pushedAt": "2026-02-11T05:27:45Z",
-      "updatedAt": "2026-10-14T20:41:47Z",
+      "updatedAt": "2026-10-19T22:21:16Z",
       "archived": false,
       "homepage": null
     },
