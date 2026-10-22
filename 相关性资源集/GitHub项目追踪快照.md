@@ -1,12 +1,12 @@
 # GitHub 项目追踪快照
 
 > 由 `scripts/update-github-metadata.mjs` 自动生成。  
-> 生成时间：2026-10-21T07:48:35.692Z
+> 生成时间：2026-10-22T07:44:26.599Z
 
 | 项目 | Stars | Forks | 语言 | License | 最近 Push |
 |:---|---:|---:|:---|:---|:---|
 | [Shpigford/society-fail](https://github.com/Shpigford/society-fail) | 48 | 7 | JavaScript | MIT | 2025-09-29 |
-| [maciej-trebacz/tower-of-time-game](https://github.com/maciej-trebacz/tower-of-time-game) | 377 | 29 | TypeScript | MIT | 2025-07-04 |
+| [maciej-trebacz/tower-of-time-game](https://github.com/maciej-trebacz/tower-of-time-game) | 378 | 29 | TypeScript | MIT | 2025-07-04 |
 | [levz0r/ASCIIKeyboard](https://github.com/levz0r/ASCIIKeyboard) | 0 | 0 | Swift | MIT | 2025-11-27 |
 | [indragiek/Context](https://github.com/indragiek/Context) | 805 | 36 | Swift | MIT | 2026-02-11 |
 | krypdoh/TCKR | - | - | - | - | 请求失败 404 |
