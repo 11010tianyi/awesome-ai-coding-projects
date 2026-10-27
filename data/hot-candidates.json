@@ -6,8 +6,8 @@
     "url": "https://keygraph.io/",
     "github": "https://github.com/KeygraphHQ/shannon",
     "description": "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-    "stars": 49356,
-    "forks": 5651,
+    "stars": 49466,
+    "forks": 5662,
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "topics": [
@@ -32,9 +32,9 @@
       "security-testing",
       "security-tools"
     ],
-    "pushedAt": "2026-10-15T21:05:19Z",
+    "pushedAt": "2026-10-27T06:17:04Z",
     "discoveredAt": "2026-09-03T07:14:57.450Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"vibe coded\" in:readme,description",
       "\"vibe-coded\" in:readme,description",
@@ -164,8 +164,8 @@
     "url": "https://keepassxc.org/",
     "github": "https://github.com/keepassxreboot/keepassxc",
     "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
-    "stars": 29500,
-    "forks": 1982,
+    "stars": 29526,
+    "forks": 1983,
     "language": "C++",
     "license": "NOASSERTION",
     "topics": [
@@ -182,9 +182,9 @@
       "windows",
       "yubikey"
     ],
-    "pushedAt": "2026-10-23T23:14:20Z",
+    "pushedAt": "2026-10-26T12:19:52Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"vibe coded\" in:readme,description",
       "\"vibe-coded\" in:readme,description"
@@ -202,7 +202,7 @@
     "url": "https://appwrite.io",
     "github": "https://github.com/appwrite/appwrite",
     "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-    "stars": 57758,
+    "stars": 57770,
     "forks": 5820,
     "language": "TypeScript",
     "license": "BSD-3-Clause",
@@ -228,9 +228,9 @@
       "swift",
       "web"
     ],
-    "pushedAt": "2026-10-26T07:45:52Z",
+    "pushedAt": "2026-10-27T07:55:53Z",
     "discoveredAt": "2026-09-24T07:40:35.049Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"vibe coded\" in:readme,description",
       "\"vibe-coded\" in:readme,description"
@@ -391,8 +391,8 @@
     "url": "https://cloudcli.ai",
     "github": "https://github.com/siteboon/claudecodeui",
     "description": "Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely.",
-    "stars": 14285,
-    "forks": 2073,
+    "stars": 14301,
+    "forks": 2078,
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "topics": [
@@ -409,9 +409,9 @@
       "react",
       "ui"
     ],
-    "pushedAt": "2026-10-24T06:15:58Z",
+    "pushedAt": "2026-10-27T07:56:10Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -743,8 +743,8 @@
     "url": "https://freemytv.io",
     "github": "https://github.com/simbasjungles/free-my-tv",
     "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-    "stars": 4677,
-    "forks": 771,
+    "stars": 4898,
+    "forks": 802,
     "language": "Java",
     "license": "MIT",
     "topics": [
@@ -760,9 +760,9 @@
       "tmdb",
       "webos"
     ],
-    "pushedAt": "2026-10-25T21:48:20Z",
+    "pushedAt": "2026-10-27T06:43:03Z",
     "discoveredAt": "2026-10-21T07:48:33.780Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -849,7 +849,7 @@
     "github": "https://github.com/OpenLAIR/dr-claw",
     "description": "A Super AI Lab with massive AI Doctors as Assistants. Best IDE for Research via AI Power. ",
     "stars": 1169,
-    "forks": 135,
+    "forks": 136,
     "language": "JavaScript",
     "license": "NOASSERTION",
     "topics": [
@@ -863,9 +863,9 @@
       "paper-writing",
       "research-assistant"
     ],
-    "pushedAt": "2026-10-26T03:02:53Z",
+    "pushedAt": "2026-10-26T21:41:08Z",
     "discoveredAt": "2026-07-17T05:24:47.238Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -920,8 +920,8 @@
     "url": "https://discord.gg/tvWcb28vBZ",
     "github": "https://github.com/jojodogm-ctrl/emufii",
     "description": "One code, and you're in the same room. Remote multiplayer between Android emulators: 3DS, Switch, PSP, PS2, DS and WII.",
-    "stars": 823,
-    "forks": 20,
+    "stars": 827,
+    "forks": 21,
     "language": "Kotlin",
     "license": "AGPL-3.0",
     "topics": [
@@ -933,9 +933,9 @@
       "retrogaming",
       "wireguard"
     ],
-    "pushedAt": "2026-10-25T21:39:42Z",
+    "pushedAt": "2026-10-26T21:38:31Z",
     "discoveredAt": "2026-10-14T07:47:30.272Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -952,7 +952,7 @@
     "url": "https://pilot.quantflow.studio/",
     "github": "https://github.com/qf-studio/pilot",
     "description": "AI that ships your tickets.",
-    "stars": 724,
+    "stars": 725,
     "forks": 58,
     "language": "Go",
     "license": "NOASSERTION",
@@ -969,9 +969,9 @@
       "devtools",
       "open-code"
     ],
-    "pushedAt": "2026-10-24T14:02:03Z",
+    "pushedAt": "2026-10-26T21:25:39Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -988,7 +988,7 @@
     "url": "https://github.com/tugcantopaloglu/openclaw-dashboard/releases/tag/v2.0.0",
     "github": "https://github.com/tugcantopaloglu/openclaw-dashboard",
     "description": "🔐 Secure, real-time monitoring dashboard for OpenClaw AI agents. Auth, TOTP MFA, cost tracking, live feed, memory browser and more.",
-    "stars": 700,
+    "stars": 701,
     "forks": 117,
     "language": "HTML",
     "license": null,
@@ -1011,7 +1011,7 @@
     ],
     "pushedAt": "2026-10-09T17:16:40Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -1074,7 +1074,7 @@
     ],
     "pushedAt": "2026-10-26T02:00:41Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1183,7 +1183,7 @@
     "url": "https://github.com/composio-community/open-claude-cowork",
     "github": "https://github.com/composio-community/open-claude-cowork",
     "description": "Open Source version of Claude Cowork with 500+ SaaS app integrations",
-    "stars": 4304,
+    "stars": 4303,
     "forks": 702,
     "language": "JavaScript",
     "license": "MIT",
@@ -1199,7 +1199,7 @@
     ],
     "pushedAt": "2026-05-23T11:52:19Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -1223,7 +1223,7 @@
     "topics": [],
     "pushedAt": "2026-03-31T08:03:16Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"vibe coded app\" in:readme,description"
     ],
@@ -1247,7 +1247,7 @@
     "topics": [],
     "pushedAt": "2024-09-05T13:30:40Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1264,8 +1264,8 @@
     "url": "https://github.com/humaidhahm/opencode-pentester",
     "github": "https://github.com/humaidhahm/opencode-pentester",
     "description": "AI-powered red teaming, and pentesting for web applications via opencode : defensive code audit (17 vulnerability categories) + offensive penetration testing (63 attack categories, 15 agents, 11 domains). ",
-    "stars": 68,
-    "forks": 11,
+    "stars": 71,
+    "forks": 12,
     "language": "Shell",
     "license": "NOASSERTION",
     "topics": [
@@ -1292,13 +1292,13 @@
     ],
     "pushedAt": "2026-10-20T05:15:51Z",
     "discoveredAt": "2026-08-22T03:11:14.154Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
     "confidence": "C",
     "status": "candidate",
-    "discoveryScore": 57,
+    "discoveryScore": 58,
     "aiCodingEvidence": "GitHub 搜索命中：\"built with Cursor\" in:readme,description",
     "learnFrom": "待人工复核：确认是否为 AI coding 成品项目，以及是否值得晋升主榜"
   },
@@ -1340,7 +1340,7 @@
     "topics": [],
     "pushedAt": "2026-10-22T07:19:27Z",
     "discoveredAt": "2026-10-22T07:44:24.768Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description",
       "\"built with Lovable\" app in:readme,description"
@@ -1385,7 +1385,7 @@
     ],
     "pushedAt": "2026-09-02T07:32:12Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1442,7 +1442,7 @@
     ],
     "pushedAt": "2026-10-23T01:51:43Z",
     "discoveredAt": "2026-09-16T07:46:11.512Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description"
     ],
@@ -1466,7 +1466,7 @@
     "topics": [],
     "pushedAt": "2025-12-02T19:16:53Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description"
     ],
@@ -1488,9 +1488,9 @@
     "language": "JavaScript",
     "license": null,
     "topics": [],
-    "pushedAt": "2026-10-26T07:51:02Z",
+    "pushedAt": "2026-10-26T08:26:37Z",
     "discoveredAt": "2026-08-03T05:54:43.347Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Lovable\" app in:readme,description"
     ],
@@ -1624,7 +1624,7 @@
     ],
     "pushedAt": "2026-10-17T07:17:10Z",
     "discoveredAt": "2026-06-30T06:35:39.522Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1648,7 +1648,7 @@
     "topics": [],
     "pushedAt": "2026-08-04T09:18:16Z",
     "discoveredAt": "2026-08-06T05:29:21.498Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1672,7 +1672,7 @@
     "topics": [],
     "pushedAt": "2026-10-11T15:08:59Z",
     "discoveredAt": "2026-10-12T09:24:48.971Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1696,7 +1696,7 @@
     "topics": [],
     "pushedAt": "2026-04-20T20:17:40Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1720,7 +1720,7 @@
     "topics": [],
     "pushedAt": "2024-11-29T11:26:00Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1728,52 +1728,6 @@
     "status": "candidate",
     "discoveryScore": 31,
     "aiCodingEvidence": "GitHub 搜索命中：\"built with Cursor\" in:readme,description",
-    "learnFrom": "待人工复核：确认是否为 AI coding 成品项目，以及是否值得晋升主榜"
-  },
-  {
-    "name": "hardik-dental",
-    "fullName": "HardikQuantumCybernetic/hardik-dental",
-    "category": "CLI Tool",
-    "url": "https://hardik-dental.vercel.app",
-    "github": "https://github.com/HardikQuantumCybernetic/hardik-dental",
-    "description": "A modern, full-stack dental clinic management system built with React, TypeScript, and Supabase. Features patient management, appointment scheduling, financial tracking, WhatsApp integration, AI chatbot, and comprehensive admin dashboard. Includes  , role-based authentication via Clerk, and real-time updates.",
-    "stars": 9,
-    "forks": 1,
-    "language": "TypeScript",
-    "license": "MIT",
-    "topics": [
-      "appointment-booking",
-      "clerk",
-      "clinic-management",
-      "dental-clinic",
-      "edge-functions",
-      "healthcare",
-      "medical",
-      "nodejs",
-      "open-source",
-      "patient-management",
-      "postgresql",
-      "react",
-      "react-router",
-      "responsive-design",
-      "shadcn-ui",
-      "supabase",
-      "tailwindcss",
-      "typescript",
-      "vercel",
-      "vite"
-    ],
-    "pushedAt": "2026-04-04T15:47:27Z",
-    "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
-    "queryHits": [
-      "\"built with Lovable\" in:readme,description",
-      "\"built with Lovable\" app in:readme,description"
-    ],
-    "confidence": "C",
-    "status": "candidate",
-    "discoveryScore": 31,
-    "aiCodingEvidence": "GitHub 搜索命中：\"built with Lovable\" in:readme,description；\"built with Lovable\" app in:readme,description",
     "learnFrom": "待人工复核：确认是否为 AI coding 成品项目，以及是否值得晋升主榜"
   },
   {
@@ -1934,6 +1888,51 @@
     "learnFrom": "待人工复核：确认是否为 AI coding 成品项目，以及是否值得晋升主榜"
   },
   {
+    "name": "hardik-dental",
+    "fullName": "HardikQuantumCybernetic/hardik-dental",
+    "category": "CLI Tool",
+    "url": "https://hardik-dental.vercel.app",
+    "github": "https://github.com/HardikQuantumCybernetic/hardik-dental",
+    "description": "A modern, full-stack dental clinic management system built with React, TypeScript, and Supabase. Features patient management, appointment scheduling, financial tracking, WhatsApp integration, AI chatbot, and comprehensive admin dashboard. Includes  , role-based authentication via Clerk, and real-time updates.",
+    "stars": 9,
+    "forks": 1,
+    "language": "TypeScript",
+    "license": "MIT",
+    "topics": [
+      "appointment-booking",
+      "clerk",
+      "clinic-management",
+      "dental-clinic",
+      "edge-functions",
+      "healthcare",
+      "medical",
+      "nodejs",
+      "open-source",
+      "patient-management",
+      "postgresql",
+      "react",
+      "react-router",
+      "responsive-design",
+      "shadcn-ui",
+      "supabase",
+      "tailwindcss",
+      "typescript",
+      "vercel",
+      "vite"
+    ],
+    "pushedAt": "2026-04-04T15:47:27Z",
+    "discoveredAt": "2026-06-01T13:56:12.854Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
+    "queryHits": [
+      "\"built with Lovable\" app in:readme,description"
+    ],
+    "confidence": "C",
+    "status": "candidate",
+    "discoveryScore": 23,
+    "aiCodingEvidence": "GitHub 搜索命中：\"built with Lovable\" app in:readme,description",
+    "learnFrom": "待人工复核：确认是否为 AI coding 成品项目，以及是否值得晋升主榜"
+  },
+  {
     "name": "ouroboros",
     "fullName": "michaelwhitford/ouroboros",
     "category": "Game",
@@ -1947,7 +1946,7 @@
     "topics": [],
     "pushedAt": "2026-01-29T22:35:48Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -2086,7 +2085,7 @@
     "topics": [],
     "pushedAt": "2026-06-16T01:56:37Z",
     "discoveredAt": "2026-06-16T07:46:52.518Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -2200,7 +2199,7 @@
     "topics": [],
     "pushedAt": "2026-05-22T12:41:00Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -2312,7 +2311,7 @@
     "topics": [],
     "pushedAt": "2026-06-15T11:56:41Z",
     "discoveredAt": "2026-09-20T07:48:23.296Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -2336,7 +2335,7 @@
     "topics": [],
     "pushedAt": "2025-03-26T18:38:38Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -2384,7 +2383,7 @@
     "topics": [],
     "pushedAt": "2026-04-16T18:42:06Z",
     "discoveredAt": "2026-08-13T04:22:57.026Z",
-    "lastSeenAt": "2026-10-26T07:55:09.859Z",
+    "lastSeenAt": "2026-10-27T08:01:51.522Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
