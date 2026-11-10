@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T09:56:33.354Z",
+  "generatedAt": "2026-11-10T10:01:53.837Z",
   "metadata": [
     {
       "owner": "Shpigford",
@@ -9,8 +9,8 @@
       "htmlUrl": "https://github.com/Shpigford/society-fail",
       "description": "Browser-based incremental post-apocalyptic clicker game",
       "stars": 48,
-      "forks": 8,
-      "openIssues": 4,
+      "forks": 7,
+      "openIssues": 3,
       "language": "JavaScript",
       "license": "MIT",
       "pushedAt": "2025-09-29T14:40:46Z",

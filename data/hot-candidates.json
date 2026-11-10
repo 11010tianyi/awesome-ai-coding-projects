@@ -6,8 +6,8 @@
     "url": "https://keygraph.io/",
     "github": "https://github.com/KeygraphHQ/shannon",
     "description": "Shannon is an AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
-    "stars": 51492,
-    "forks": 6008,
+    "stars": 51605,
+    "forks": 6020,
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "topics": [
@@ -32,9 +32,9 @@
       "security-testing",
       "security-tools"
     ],
-    "pushedAt": "2026-11-09T09:12:56Z",
+    "pushedAt": "2026-11-10T04:39:54Z",
     "discoveredAt": "2026-09-03T07:14:57.450Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibe coded\" in:readme,description",
       "\"vibe-coded\" in:readme,description",
@@ -202,8 +202,8 @@
     "url": "https://appwrite.io",
     "github": "https://github.com/appwrite/appwrite",
     "description": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
-    "stars": 57901,
-    "forks": 5840,
+    "stars": 57925,
+    "forks": 5838,
     "language": "TypeScript",
     "license": "BSD-3-Clause",
     "topics": [
@@ -228,9 +228,9 @@
       "swift",
       "web"
     ],
-    "pushedAt": "2026-11-09T09:51:23Z",
+    "pushedAt": "2026-11-10T09:39:47Z",
     "discoveredAt": "2026-09-24T07:40:35.049Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibe coded\" in:readme,description",
       "\"vibe-coded\" in:readme,description"
@@ -248,8 +248,8 @@
     "url": "https://mem0.ai",
     "github": "https://github.com/mem0ai/mem0",
     "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
-    "stars": 68678,
-    "forks": 8170,
+    "stars": 68740,
+    "forks": 8178,
     "language": "Python",
     "license": "Apache-2.0",
     "topics": [
@@ -270,7 +270,7 @@
     ],
     "pushedAt": "2026-11-06T16:53:07Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibecoded\" in:readme,description"
     ],
@@ -311,14 +311,14 @@
     "url": "https://dimensional.org",
     "github": "https://github.com/dimensionalOS/dimos",
     "description": "Dimensional is the agentic operating system for physical space. Command humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).",
-    "stars": 4726,
-    "forks": 844,
+    "stars": 4733,
+    "forks": 845,
     "language": "Python",
     "license": "NOASSERTION",
     "topics": [],
-    "pushedAt": "2026-11-09T08:08:21Z",
+    "pushedAt": "2026-11-10T09:59:45Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibecoded\" in:readme,description"
     ],
@@ -391,8 +391,8 @@
     "url": "https://cloudcli.ai",
     "github": "https://github.com/siteboon/claudecodeui",
     "description": "Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely.",
-    "stars": 14523,
-    "forks": 2116,
+    "stars": 14545,
+    "forks": 2117,
     "language": "TypeScript",
     "license": "AGPL-3.0",
     "topics": [
@@ -409,9 +409,9 @@
       "react",
       "ui"
     ],
-    "pushedAt": "2026-11-07T13:51:05Z",
+    "pushedAt": "2026-11-09T12:24:38Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -428,7 +428,7 @@
     "url": "https://github.com/github/CopilotForXcode",
     "github": "https://github.com/github/CopilotForXcode",
     "description": "AI coding assistant for Xcode",
-    "stars": 6377,
+    "stars": 6381,
     "forks": 2092,
     "language": "Swift",
     "license": "MIT",
@@ -445,7 +445,7 @@
     ],
     "pushedAt": "2026-11-02T08:18:40Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"Copilot agent\" app in:readme,description"
     ],
@@ -618,8 +618,8 @@
     "url": "https://muapi.ai/open-generative-ai?utm_source=github&utm_medium=about&utm_campaign=open-generative-ai",
     "github": "https://github.com/Anil-matcha/Open-Generative-AI",
     "description": "Uncensored Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
-    "stars": 33520,
-    "forks": 6349,
+    "stars": 33747,
+    "forks": 6415,
     "language": "JavaScript",
     "license": "MIT",
     "topics": [
@@ -644,9 +644,9 @@
       "uncensored",
       "wan-video"
     ],
-    "pushedAt": "2026-11-08T19:06:02Z",
+    "pushedAt": "2026-11-09T13:59:52Z",
     "discoveredAt": "2026-09-18T07:28:33.134Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibecoded\" in:readme,description"
     ],
@@ -663,8 +663,8 @@
     "url": "https://www.vadoo.tv/ai-youtube-shorts-generator",
     "github": "https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator",
     "description": "Open-source alternative to Opus Clip, Vidyo.ai, Klap & SubMagic. Turn long-form YouTube videos into viral 9:16 shorts using LLM highlight detection, Whisper transcription, and auto vertical cropping — free, no watermarks, no per-clip credits.",
-    "stars": 5854,
-    "forks": 1062,
+    "stars": 5885,
+    "forks": 1068,
     "language": "Python",
     "license": "MIT",
     "topics": [
@@ -689,9 +689,9 @@
       "whisper",
       "youtube-shorts"
     ],
-    "pushedAt": "2026-11-06T09:34:12Z",
+    "pushedAt": "2026-11-09T13:37:51Z",
     "discoveredAt": "2026-09-18T07:28:33.134Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibecoded\" in:readme,description"
     ],
@@ -708,8 +708,8 @@
     "url": "https://xy.corleom.com",
     "github": "https://github.com/23Star/xianyu-super-butler",
     "description": "闲鱼超级管家是一款全面升级的xy自动发货平台，自动滑块、发货、评价、要花、擦亮通通稳定支持，时刻维护！时刻更新！坚决保证使用世界上最强 AI模型(6 Astra\\6 Sol 、ops 5)vibecoding！ 群在最后面,不想部署用在线的xy.corleom.com（免费、最新、安全，托管账号AI自动过滑块）",
-    "stars": 1438,
-    "forks": 811,
+    "stars": 1444,
+    "forks": 812,
     "language": "Python",
     "license": "AGPL-3.0",
     "topics": [
@@ -724,9 +724,9 @@
       "xianyuapp",
       "xianyubb-bot"
     ],
-    "pushedAt": "2026-11-09T06:46:36Z",
+    "pushedAt": "2026-11-10T07:27:04Z",
     "discoveredAt": "2026-09-07T07:24:29.999Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibecoded\" in:readme,description"
     ],
@@ -743,8 +743,8 @@
     "url": "https://freemytv.io",
     "github": "https://github.com/simbasjungles/free-my-tv",
     "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-    "stars": 6160,
-    "forks": 1069,
+    "stars": 6225,
+    "forks": 1086,
     "language": "Java",
     "license": "MIT",
     "topics": [
@@ -760,9 +760,9 @@
       "tmdb",
       "webos"
     ],
-    "pushedAt": "2026-11-07T06:41:03Z",
+    "pushedAt": "2026-11-10T01:43:12Z",
     "discoveredAt": "2026-10-21T07:48:33.780Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -779,8 +779,8 @@
     "url": "https://www.prisma.io",
     "github": "https://github.com/prisma/orm",
     "description": "The Prisma ORM: write your application in TypeScript with human-readable queries instead of SQL. Host your database on Prisma Postgres and your app on Prisma Compute.",
-    "stars": 47659,
-    "forks": 2610,
+    "stars": 47661,
+    "forks": 2609,
     "language": "TypeScript",
     "license": "Apache-2.0",
     "topics": [
@@ -805,9 +805,9 @@
       "sqlserver",
       "typescript"
     ],
-    "pushedAt": "2026-11-09T07:11:10Z",
+    "pushedAt": "2026-11-10T09:49:00Z",
     "discoveredAt": "2026-10-23T07:42:04.815Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"Copilot agent\" app in:readme,description"
     ],
@@ -824,8 +824,8 @@
     "url": "https://openbot.run/",
     "github": "https://github.com/nightly-labs/openbot",
     "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-    "stars": 6573,
-    "forks": 653,
+    "stars": 6772,
+    "forks": 678,
     "language": "TypeScript",
     "license": "NOASSERTION",
     "topics": [
@@ -838,9 +838,9 @@
       "solidjs",
       "typescript"
     ],
-    "pushedAt": "2026-11-09T09:55:14Z",
+    "pushedAt": "2026-11-10T10:01:11Z",
     "discoveredAt": "2026-11-05T09:38:32.401Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"Copilot agent\" app in:readme,description"
     ],
@@ -857,8 +857,8 @@
     "url": "http://www.bisheng.ai",
     "github": "https://github.com/dataelement/bisheng",
     "description": "BISHENG is an open-source enterprise Agent platform for building, deploying, and managing AI applications. It combines AI agents, workflows, RAG and knowledge management, desktop agent integration, and vibecoding app hosting with unified model management, evaluation, observability, access control, and enterprise administration.",
-    "stars": 12201,
-    "forks": 2013,
+    "stars": 12215,
+    "forks": 2015,
     "language": "Python",
     "license": "Apache-2.0",
     "topics": [
@@ -882,9 +882,9 @@
       "rag",
       "workflow"
     ],
-    "pushedAt": "2026-11-09T09:08:23Z",
+    "pushedAt": "2026-11-10T10:01:20Z",
     "discoveredAt": "2026-11-07T08:56:37.038Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibecoded\" in:readme,description"
     ],
@@ -925,8 +925,8 @@
     "url": "https://openlair.github.io/dr-claw/",
     "github": "https://github.com/OpenLAIR/dr-claw",
     "description": "A Super AI Lab with massive AI Doctors as Assistants. Best IDE for Research via AI Power. ",
-    "stars": 1200,
-    "forks": 142,
+    "stars": 1198,
+    "forks": 141,
     "language": "JavaScript",
     "license": "NOASSERTION",
     "topics": [
@@ -942,7 +942,7 @@
     ],
     "pushedAt": "2026-11-06T16:07:10Z",
     "discoveredAt": "2026-07-17T05:24:47.238Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -997,7 +997,7 @@
     "url": "https://discord.gg/tvWcb28vBZ",
     "github": "https://github.com/jojodogm-ctrl/emufii",
     "description": "One code, and you're in the same room. Remote multiplayer between Android emulators: 3DS, Switch, PSP, PS2, DS and WII.",
-    "stars": 884,
+    "stars": 891,
     "forks": 22,
     "language": "Kotlin",
     "license": "AGPL-3.0",
@@ -1012,7 +1012,7 @@
     ],
     "pushedAt": "2026-11-08T23:54:30Z",
     "discoveredAt": "2026-10-14T07:47:30.272Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -1029,7 +1029,7 @@
     "url": "https://docs.pilotcloud.dev",
     "github": "https://github.com/qf-studio/pilot",
     "description": "AI that ships your tickets.",
-    "stars": 727,
+    "stars": 728,
     "forks": 58,
     "language": "Go",
     "license": "NOASSERTION",
@@ -1046,9 +1046,9 @@
       "devtools",
       "open-code"
     ],
-    "pushedAt": "2026-11-09T09:51:54Z",
+    "pushedAt": "2026-11-10T09:59:33Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -1065,8 +1065,8 @@
     "url": "https://github.com/tugcantopaloglu/openclaw-dashboard/releases/latest",
     "github": "https://github.com/tugcantopaloglu/openclaw-dashboard",
     "description": "🔐 Secure, real-time monitoring dashboard for OpenClaw AI agents. Auth, TOTP MFA, cost tracking, live feed, memory browser and more.",
-    "stars": 700,
-    "forks": 117,
+    "stars": 701,
+    "forks": 118,
     "language": "HTML",
     "license": "MIT",
     "topics": [
@@ -1088,7 +1088,7 @@
     ],
     "pushedAt": "2026-11-05T11:35:16Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -1151,7 +1151,7 @@
     ],
     "pushedAt": "2026-11-09T03:17:52Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1206,7 +1206,7 @@
     ],
     "pushedAt": "2026-10-28T11:43:21Z",
     "discoveredAt": "2026-10-29T08:39:05.136Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibe coded app\" in:readme,description"
     ],
@@ -1265,7 +1265,7 @@
     "topics": [],
     "pushedAt": "2026-10-28T11:44:10Z",
     "discoveredAt": "2026-10-29T08:39:05.136Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibe coded app\" in:readme,description"
     ],
@@ -1315,8 +1315,8 @@
     "url": "https://github.com/humaidhahm/opencode-pentester",
     "github": "https://github.com/humaidhahm/opencode-pentester",
     "description": "AI-powered red teaming, and pentesting for web applications via opencode : defensive code audit (17 vulnerability categories) + offensive penetration testing (63 attack categories, 15 agents, 11 domains). ",
-    "stars": 82,
-    "forks": 14,
+    "stars": 83,
+    "forks": 15,
     "language": "Shell",
     "license": "NOASSERTION",
     "topics": [
@@ -1343,7 +1343,7 @@
     ],
     "pushedAt": "2026-10-20T05:15:51Z",
     "discoveredAt": "2026-08-22T03:11:14.154Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1360,7 +1360,7 @@
     "url": "https://github.com/composio-community/open-claude-cowork",
     "github": "https://github.com/composio-community/open-claude-cowork",
     "description": "Open Source version of Claude Cowork with 500+ SaaS app integrations",
-    "stars": 4314,
+    "stars": 4315,
     "forks": 703,
     "language": "JavaScript",
     "license": "MIT",
@@ -1376,7 +1376,7 @@
     ],
     "pushedAt": "2026-05-23T11:52:19Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Claude Code\" in:readme,description"
     ],
@@ -1400,7 +1400,7 @@
     "topics": [],
     "pushedAt": "2026-03-31T08:03:16Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibe coded app\" in:readme,description"
     ],
@@ -1448,7 +1448,7 @@
     "topics": [],
     "pushedAt": "2024-09-05T13:30:40Z",
     "discoveredAt": "2026-10-29T08:39:05.136Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1496,7 +1496,7 @@
     "topics": [],
     "pushedAt": "2026-10-22T07:19:27Z",
     "discoveredAt": "2026-10-22T07:44:24.768Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description",
       "\"built with Lovable\" app in:readme,description"
@@ -1541,7 +1541,7 @@
     ],
     "pushedAt": "2026-11-05T09:30:35Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1598,7 +1598,7 @@
     ],
     "pushedAt": "2026-10-30T15:21:16Z",
     "discoveredAt": "2026-09-16T07:46:11.512Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description"
     ],
@@ -1622,7 +1622,7 @@
     "topics": [],
     "pushedAt": "2025-12-02T19:16:53Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description"
     ],
@@ -1780,7 +1780,7 @@
     ],
     "pushedAt": "2026-10-17T07:17:10Z",
     "discoveredAt": "2026-06-30T06:35:39.522Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1804,7 +1804,7 @@
     "topics": [],
     "pushedAt": "2026-08-04T09:18:16Z",
     "discoveredAt": "2026-08-06T05:29:21.498Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1828,7 +1828,7 @@
     "topics": [],
     "pushedAt": "2026-10-11T15:08:59Z",
     "discoveredAt": "2026-10-12T09:24:48.971Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -1852,7 +1852,7 @@
     "topics": [],
     "pushedAt": "2026-04-20T20:17:40Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1876,7 +1876,7 @@
     "topics": [],
     "pushedAt": "2024-11-29T11:26:00Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1905,7 +1905,7 @@
     ],
     "pushedAt": "2026-01-26T11:12:14Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Cursor\" in:readme,description"
     ],
@@ -1950,7 +1950,7 @@
     ],
     "pushedAt": "2026-04-04T15:47:27Z",
     "discoveredAt": "2026-06-01T13:56:12.854Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"built with Lovable\" in:readme,description",
       "\"built with Lovable\" app in:readme,description"
@@ -2103,7 +2103,7 @@
     "topics": [],
     "pushedAt": "2026-01-29T22:35:48Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -2242,7 +2242,7 @@
     "topics": [],
     "pushedAt": "2026-06-16T01:56:37Z",
     "discoveredAt": "2026-06-16T07:46:52.518Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -2356,7 +2356,7 @@
     "topics": [],
     "pushedAt": "2026-05-22T12:41:00Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -2468,7 +2468,7 @@
     "topics": [],
     "pushedAt": "2026-06-15T11:56:41Z",
     "discoveredAt": "2026-09-20T07:48:23.296Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -2492,7 +2492,7 @@
     "topics": [],
     "pushedAt": "2025-03-26T18:38:38Z",
     "discoveredAt": "2026-06-01T13:58:37.765Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
@@ -2540,7 +2540,7 @@
     "topics": [],
     "pushedAt": "2026-04-16T18:42:06Z",
     "discoveredAt": "2026-08-13T04:22:57.026Z",
-    "lastSeenAt": "2026-11-09T09:56:31.353Z",
+    "lastSeenAt": "2026-11-10T10:01:51.921Z",
     "queryHits": [
       "\"vibe coded game\" in:readme,description"
     ],
