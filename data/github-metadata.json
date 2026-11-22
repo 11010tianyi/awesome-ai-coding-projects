@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T09:57:57.651Z",
+  "generatedAt": "2026-11-22T03:50:27.000Z",
   "metadata": [
     {
       "owner": "Shpigford",
@@ -36,13 +36,30 @@
       "homepage": null
     },
     {
+      "owner": "cannoneyed",
+      "repo": "isometric-nyc",
+      "ok": true,
+      "fullName": "cannoneyed/isometric-nyc",
+      "htmlUrl": "https://github.com/cannoneyed/isometric-nyc",
+      "description": "AI-generated isometric pixel art map of NYC",
+      "stars": 140,
+      "forks": 22,
+      "openIssues": 1,
+      "language": "Python",
+      "license": "MIT",
+      "pushedAt": "2026-02-06T18:27:46Z",
+      "updatedAt": "2026-11-17T16:24:36Z",
+      "archived": false,
+      "homepage": "https://isometric.nyc"
+    },
+    {
       "owner": "levz0r",
       "repo": "ASCIIKeyboard",
       "ok": true,
       "fullName": "levz0r/ASCIIKeyboard",
       "htmlUrl": "https://github.com/levz0r/ASCIIKeyboard",
       "description": "A macOS menu bar app that transforms your typing into ASCII art",
-      "stars": 0,
+      "stars": 2,
       "forks": 0,
       "openIssues": 0,
       "language": "Swift",
@@ -59,8 +76,8 @@
       "fullName": "indragiek/Context",
       "htmlUrl": "https://github.com/indragiek/Context",
       "description": "Native macOS client for Model Context Protocol (MCP)",
-      "stars": 808,
-      "forks": 37,
+      "stars": 809,
+      "forks": 38,
       "openIssues": 12,
       "language": "Swift",
       "license": "MIT",

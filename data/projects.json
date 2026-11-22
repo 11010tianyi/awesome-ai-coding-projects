@@ -32,7 +32,7 @@
   {
     "name": "Tower of Time",
     "category": "Game",
-    "url": "",
+    "url": "https://m4v3k.itch.io/tower-of-time",
     "github": "https://github.com/maciej-trebacz/tower-of-time-game",
     "score": 10,
     "confidence": "A",
@@ -120,6 +120,16 @@
     "learnFrom": "个性化贺卡生成，情绪价值产品"
   },
   {
+    "name": "Isometric NYC",
+    "category": "Web App",
+    "url": "https://isometric.nyc",
+    "github": "https://github.com/cannoneyed/isometric-nyc",
+    "score": 9,
+    "confidence": "A",
+    "aiCodingEvidence": "awesome-vibecoded-apps 标注 built with coding agents、no hand-written code",
+    "learnFrom": "等距像素风纽约地图、AI 生成资产与编程代理协作的完整站点"
+  },
+  {
     "name": "Mixcard",
     "category": "Web App",
     "url": "https://mixcard.me",
@@ -168,6 +178,36 @@
     "confidence": "B",
     "aiCodingEvidence": "awesome-vibecoded-apps 收录",
     "learnFrom": "照片识别食材、生成食谱和膳食计划"
+  },
+  {
+    "name": "Cowboy Shooter",
+    "category": "Game",
+    "url": "https://cowboy.raymelon.com",
+    "github": "",
+    "score": 8.5,
+    "confidence": "A",
+    "aiCodingEvidence": "awesome-vibecoded-apps 标注 100% AI-generated from assets to code",
+    "learnFrom": "西部 3D 跑酷射击、资产到代码全链路 AI 生成"
+  },
+  {
+    "name": "GeneGuessr",
+    "category": "Web App",
+    "url": "https://geneguessr.brinedew.bio",
+    "github": "",
+    "score": 8.5,
+    "confidence": "A",
+    "aiCodingEvidence": "awesome-vibecoded-apps 标注 made with Claude by a biologist",
+    "learnFrom": "每日蛋白质猜谜、生物学主题的轻量每日游戏"
+  },
+  {
+    "name": "TikZ Editor",
+    "category": "Web App",
+    "url": "https://tikz.dev/editor/",
+    "github": "",
+    "score": 8.5,
+    "confidence": "A",
+    "aiCodingEvidence": "awesome-vibecoded-apps 标注 built almost entirely by Codex",
+    "learnFrom": "LaTeX TikZ 图形所见即所得编辑、科研绘图垂直工具"
   },
   {
     "name": "Paddles.ai",
@@ -220,6 +260,16 @@
     "learnFrom": "心理学效率工具，内容与交互结合"
   },
   {
+    "name": "ASCII Tree Editor",
+    "category": "Web App",
+    "url": "https://asciitree.reorx.com",
+    "github": "",
+    "score": 8,
+    "confidence": "A",
+    "aiCodingEvidence": "awesome-vibecoded-apps 标注 vibe-coded with Claude Code",
+    "learnFrom": "ASCII 树形图绘制与编辑、极窄工具的完整体验"
+  },
+  {
     "name": "Refetch",
     "category": "Web App",
     "url": "https://refetch.io",
@@ -268,6 +318,26 @@
     "confidence": "B",
     "aiCodingEvidence": "awesome-vibecoded-apps 收录",
     "learnFrom": "天气信息转穿衣决策"
+  },
+  {
+    "name": "Davit",
+    "category": "Desktop App",
+    "url": "https://davit.app",
+    "github": "",
+    "score": 7.5,
+    "confidence": "A",
+    "aiCodingEvidence": "awesome-vibecoded-apps 标注 mostly vibe-coded",
+    "learnFrom": "原生 macOS 容器管理 UI、系统工具类桌面 App"
+  },
+  {
+    "name": "Spikelog",
+    "category": "Web App",
+    "url": "https://spikelog.com",
+    "github": "",
+    "score": 7.5,
+    "confidence": "A",
+    "aiCodingEvidence": "awesome-vibecoded-apps 标注 built in a day with Cursor",
+    "learnFrom": "脚本与 cron 指标图表、一天做完的极简监控 MVP"
   },
   {
     "name": "ASCIIKeyboard",

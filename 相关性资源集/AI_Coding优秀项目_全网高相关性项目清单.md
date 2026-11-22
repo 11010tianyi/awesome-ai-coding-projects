@@ -27,7 +27,7 @@
 | 1 | **10/10** | **Fly** | 游戏 | https://fly.pieter.com | awesome-vibecoded-apps 收录，标注 100% AI made | 多人在线飞行模拟与空战，适合学习大型 3D Web 游戏的 AI coding 边界 |
 | 2 | **10/10** | **Vibe Sail** | 游戏 | https://vibesail.com | awesome-vibecoded-apps / awesome-ai-built-games 收录 | 多人 3D 航海模拟，探索、货运、低压休闲玩法完整 |
 | 3 | **10/10** | **Society Fail** | 游戏+开源 | https://github.com/Shpigford/society-fail | awesome-ai-built-games 收录，源码公开 | 后启示录增量点击游戏，产品切口小但可玩性和系统设计完整 |
-| 4 | **10/10** | **Tower of Time** | 游戏+开源 | https://github.com/maciej-trebacz/tower-of-time-game | awesome-vibecoded-apps 标注约 95% 代码由 AI 写成 | 带时间回溯机制的塔防游戏，适合拆解复杂游戏机制如何由 AI 协作完成 |
+| 4 | **10/10** | **Tower of Time** | 游戏+开源 | https://m4v3k.itch.io/tower-of-time | awesome-vibecoded-apps 标注约 95% 代码由 AI 写成 | 带时间回溯机制的塔防游戏，适合拆解复杂游戏机制如何由 AI 协作完成 |
 | 5 | **9.5/10** | **Oyster Arcade** | 游戏合集 | https://arcade.oyster.to/ | awesome-ai-built-games 标注 Claude Code end-to-end | 复古街机合集，适合学习 AI coding 下的统一视觉和多小游戏组织 |
 | 6 | **9.5/10** | **The Great Taxi Assignment** | 游戏 | https://great-taxi-assignment.netlify.app | awesome-vibecoded-apps 收录，Vibe Coding Game Jam 2025 获奖 | 复古 3D 出租车模拟，适合作为 Jam 作品完成度标杆 |
 | 7 | **9.5/10** | **Vector Tango** | 游戏 | https://www.vector-tango.com | awesome-vibecoded-apps 收录 | 低多边形空管/空战混合游戏，少见的策略+多人动作形态 |
@@ -36,30 +36,37 @@
 | 10 | **9/10** | **DummyForms** | Web App | https://dummyforms.com | awesome-vibecoded-apps 收录，Lovable hackathon 获奖 | AI 表单生成+无代码表单构建，适合学习 SaaS MVP 的完整工作流 |
 | 11 | **9/10** | **My Baby Logger** | Web App | https://mybabylogger.com | awesome-vibecoded-apps 收录 | 新生儿喂养、睡眠、尿布、用药记录，典型个人刚需小工具 |
 | 12 | **9/10** | **JeniCards** | Web App | https://jenicards.com | awesome-vibecoded-apps 收录 | 生成高度个性化贺卡，适合学习“情绪价值 + 生成式 AI”的轻产品 |
-| 13 | **8.5/10** | **Mixcard** | Web App | https://mixcard.me | awesome-vibecoded-apps 收录 | Spotify 歌单转复古明信片，个性化、打印、分享结合得很轻巧 |
-| 14 | **8.5/10** | **MPLS Coffee** | 网站 | https://mplscoffee.com | awesome-vibecoded-apps 标注 Claude Code 完成 | 明尼苏达咖啡店目录，适合学习垂直本地目录站 |
-| 15 | **8.5/10** | **CourtSync Calendar** | Web App | https://www.courtsynccalendar.com | awesome-vibecoded-apps 收录 | 从法院排期 PDF 提取日程文件，窄场景自动化价值很强 |
-| 16 | **8.5/10** | **LunchBox Buddy** | Web App | https://joyful-froyo-b4482b.netlify.app | awesome-vibecoded-apps 收录 | 拍冰箱照片生成学生午餐建议，个性化家庭场景值得复刻 |
-| 17 | **8.5/10** | **MealMuse** | Web App | https://mealmuse.ai | awesome-vibecoded-apps 收录 | 从冰箱/储藏室照片生成食谱与膳食计划 |
-| 18 | **8/10** | **Paddles.ai** | Web App | https://www.paddles.ai | awesome-vibecoded-apps 收录 | 匹克球比赛记录与 AI 分析，运动垂类工具代表 |
-| 19 | **8/10** | **CarbScan** | Web App | https://carbscan.ai | awesome-vibecoded-apps 收录 | 糖尿病/血糖管理里的碳水估算工具，医疗健康场景需关注合规边界 |
-| 20 | **8/10** | **Timeless Memories** | Web App | https://timelessmemories.me | awesome-vibecoded-apps 收录 | 老照片转动态视频，家庭记忆场景的生成式 AI 产品 |
-| 21 | **8/10** | **Stories of Life** | Web App | https://stories-of-life.vercel.app | awesome-vibecoded-apps 收录 | 根据孩子情绪生成睡前故事，亲子个性化内容工具 |
-| 22 | **8/10** | **Flowbound** | Web App | https://www.flowbound.app | awesome-vibecoded-apps 收录 | 面向拖延症的心理学效率工具，适合学习内容+交互结合 |
-| 23 | **7.5/10** | **Refetch** | Web App+开源 | https://refetch.io | awesome-vibecoded-apps 收录 | 开源 Hacker News 替代品，适合学习资讯聚合产品结构 |
-| 24 | **7.5/10** | **Beatseek** | Web App | https://beatseek.io | awesome-vibecoded-apps 收录 | 跨音乐平台统一搜索，适合学习聚合搜索与筛选体验 |
-| 25 | **7.5/10** | **Standup Buddy** | Web App | https://standup-buddy.lovable.app | awesome-vibecoded-apps 收录 | 随机站会顺序小工具，轻量团队工具的好例子 |
-| 26 | **7.5/10** | **Lash Tracker** | Web App | https://lash-map-tracker.replit.app | awesome-vibecoded-apps 收录 | 睫毛款式与贴法照片记录，个性化/小众需求非常典型 |
-| 27 | **7.5/10** | **How Many Layers** | Web App | https://howmanylayersidag.se | awesome-vibecoded-apps 收录 | 用“今天穿几层”重写天气 App，非常适合学习需求翻译 |
-| 28 | **7/10** | **ASCIIKeyboard** | macOS App+开源 | https://github.com/levz0r/ASCIIKeyboard | awesome-vibecoded-apps 收录 | 菜单栏 ASCII 艺术输入工具，轻桌面 App 示例 |
-| 29 | **7/10** | **Context** | macOS App+开源 | https://github.com/indragiek/Context | awesome-vibecoded-apps 标注 Claude Code 构建 | MCP Server 测试调试客户端，偏开发者工具但成品完整 |
-| 30 | **7/10** | **Poker Slam** | iOS 游戏 | https://apps.apple.com/app/poker-slam/id6746056702 | awesome-vibecoded-apps 标注 Cursor fully vibe-coded | 5x5 扑克手牌策略游戏，移动端小玩法完整 |
-| 31 | **7/10** | **Crashy Zorg** | Android 游戏 | https://play.google.com/store/apps/details?id=com.blobware.crashyzorg | awesome-vibecoded-apps 标注 fully AI-coded | Android 街机太空游戏，适合观察 AI coding 进入应用商店的完成度 |
-| 32 | **7/10** | **RallyMesh** | Android App | https://play.google.com/store/apps/details?id=com.blazingbanana.rallymesh | awesome-vibecoded-apps 收录 | 蓝牙 Mesh 离线通信，特殊场景 App |
-| 33 | **7/10** | **TCKR** | Windows App+开源 | https://github.com/krypdoh/TCKR | awesome-vibecoded-apps 标注 built with Claude | Windows 股票行情小工具，桌面端系统托盘/窗口体验可参考 |
-| 34 | **7/10** | **Markdown Printer** | 浏览器扩展+开源 | https://github.com/levz0r/markdown-printer | awesome-vibecoded-apps 收录 | 网页转格式化 Markdown 的浏览器扩展 |
-| 35 | **7/10** | **DecayBlock** | 浏览器扩展 | https://chromewebstore.google.com/detail/decayblock/lpljcnalipecdlmafjahhdeghgdepdjg | awesome-vibecoded-apps 收录 | 控制网站访问的专注力扩展，轻量但刚需 |
-| 36 | **6.5/10** | **Aldi Prices** | Web App+开源 | https://github.com/jimlawruk/aldi-prices | awesome-vibecoded-apps 标注 all code by Copilot agent | Aldi 商品价格追踪，适合学习价格监控和历史数据展示 |
+| 13 | **9/10** | **Isometric NYC** | Web App+开源 | https://isometric.nyc | awesome-vibecoded-apps 标注 coding agents 构建、无手写代码 | 巨型等距像素风纽约地图，适合学习 AI 生成资产与编程代理协作的完整站点 |
+| 14 | **8.5/10** | **Mixcard** | Web App | https://mixcard.me | awesome-vibecoded-apps 收录 | Spotify 歌单转复古明信片，个性化、打印、分享结合得很轻巧 |
+| 15 | **8.5/10** | **MPLS Coffee** | 网站 | https://mplscoffee.com | awesome-vibecoded-apps 标注 Claude Code 完成 | 明尼苏达咖啡店目录，适合学习垂直本地目录站 |
+| 16 | **8.5/10** | **CourtSync Calendar** | Web App | https://www.courtsynccalendar.com | awesome-vibecoded-apps 收录 | 从法院排期 PDF 提取日程文件，窄场景自动化价值很强 |
+| 17 | **8.5/10** | **LunchBox Buddy** | Web App | https://joyful-froyo-b4482b.netlify.app | awesome-vibecoded-apps 收录 | 拍冰箱照片生成学生午餐建议，个性化家庭场景值得复刻 |
+| 18 | **8.5/10** | **MealMuse** | Web App | https://mealmuse.ai | awesome-vibecoded-apps 收录 | 从冰箱/储藏室照片生成食谱与膳食计划 |
+| 19 | **8.5/10** | **Cowboy Shooter** | 游戏 | https://cowboy.raymelon.com | awesome-vibecoded-apps 标注 100% AI-generated | 西部 3D 跑酷射击，资产、代码、玩法全链路 AI 生成案例 |
+| 20 | **8.5/10** | **GeneGuessr** | Web App | https://geneguessr.brinedew.bio | awesome-vibecoded-apps 标注生物学家用 Claude 制作 | 每日蛋白质猜谜，生物学主题的轻量每日游戏 |
+| 21 | **8.5/10** | **TikZ Editor** | Web App | https://tikz.dev/editor/ | awesome-vibecoded-apps 标注几乎全部由 Codex 构建 | LaTeX TikZ 图形所见即所得编辑器，科研绘图垂直工具 |
+| 22 | **8/10** | **Paddles.ai** | Web App | https://www.paddles.ai | awesome-vibecoded-apps 收录 | 匹克球比赛记录与 AI 分析，运动垂类工具代表 |
+| 23 | **8/10** | **CarbScan** | Web App | https://carbscan.ai | awesome-vibecoded-apps 收录 | 糖尿病/血糖管理里的碳水估算工具，医疗健康场景需关注合规边界 |
+| 24 | **8/10** | **Timeless Memories** | Web App | https://timelessmemories.me | awesome-vibecoded-apps 收录 | 老照片转动态视频，家庭记忆场景的生成式 AI 产品 |
+| 25 | **8/10** | **Stories of Life** | Web App | https://stories-of-life.vercel.app | awesome-vibecoded-apps 收录 | 根据孩子情绪生成睡前故事，亲子个性化内容工具 |
+| 26 | **8/10** | **Flowbound** | Web App | https://www.flowbound.app | awesome-vibecoded-apps 收录 | 面向拖延症的心理学效率工具，适合学习内容+交互结合 |
+| 27 | **8/10** | **ASCII Tree Editor** | Web App | https://asciitree.reorx.com | awesome-vibecoded-apps 标注 Claude Code vibe-coded | ASCII 树形图绘制与编辑，极窄工具的完整体验 |
+| 28 | **7.5/10** | **Refetch** | Web App+开源 | https://refetch.io | awesome-vibecoded-apps 收录 | 开源 Hacker News 替代品，适合学习资讯聚合产品结构 |
+| 29 | **7.5/10** | **Beatseek** | Web App | https://beatseek.io | awesome-vibecoded-apps 收录 | 跨音乐平台统一搜索，适合学习聚合搜索与筛选体验 |
+| 30 | **7.5/10** | **Standup Buddy** | Web App | https://standup-buddy.lovable.app | awesome-vibecoded-apps 收录 | 随机站会顺序小工具，轻量团队工具的好例子 |
+| 31 | **7.5/10** | **Lash Tracker** | Web App | https://lash-map-tracker.replit.app | awesome-vibecoded-apps 收录 | 睫毛款式与贴法照片记录，个性化/小众需求非常典型 |
+| 32 | **7.5/10** | **How Many Layers** | Web App | https://howmanylayersidag.se | awesome-vibecoded-apps 收录 | 用“今天穿几层”重写天气 App，非常适合学习需求翻译 |
+| 33 | **7.5/10** | **Davit** | macOS App | https://davit.app | awesome-vibecoded-apps 标注 mostly vibe-coded | 原生 macOS 容器管理 UI，系统工具类桌面 App |
+| 34 | **7.5/10** | **Spikelog** | Web App | https://spikelog.com | awesome-vibecoded-apps 标注用 Cursor 一天建成 | 脚本与 cron 指标图表，一天做完的极简监控 MVP |
+| 35 | **7/10** | **ASCIIKeyboard** | macOS App+开源 | https://github.com/levz0r/ASCIIKeyboard | awesome-vibecoded-apps 收录 | 菜单栏 ASCII 艺术输入工具，轻桌面 App 示例 |
+| 36 | **7/10** | **Context** | macOS App+开源 | https://github.com/indragiek/Context | awesome-vibecoded-apps 标注 Claude Code 构建 | MCP Server 测试调试客户端，偏开发者工具但成品完整 |
+| 37 | **7/10** | **Poker Slam** | iOS 游戏 | https://apps.apple.com/app/poker-slam/id6746056702 | awesome-vibecoded-apps 标注 Cursor fully vibe-coded | 5x5 扑克手牌策略游戏，移动端小玩法完整 |
+| 38 | **7/10** | **Crashy Zorg** | Android 游戏 | https://play.google.com/store/apps/details?id=com.blobware.crashyzorg | awesome-vibecoded-apps 标注 fully AI-coded | Android 街机太空游戏，适合观察 AI coding 进入应用商店的完成度 |
+| 39 | **7/10** | **RallyMesh** | Android App | https://play.google.com/store/apps/details?id=com.blazingbanana.rallymesh | awesome-vibecoded-apps 收录 | 蓝牙 Mesh 离线通信，特殊场景 App |
+| 40 | **7/10** | **TCKR** | Windows App+开源 | https://github.com/krypdoh/TCKR | awesome-vibecoded-apps 标注 built with Claude | Windows 股票行情小工具，桌面端系统托盘/窗口体验可参考 |
+| 41 | **7/10** | **Markdown Printer** | 浏览器扩展+开源 | https://github.com/levz0r/markdown-printer | awesome-vibecoded-apps 收录 | 网页转格式化 Markdown 的浏览器扩展 |
+| 42 | **7/10** | **DecayBlock** | 浏览器扩展 | https://chromewebstore.google.com/detail/decayblock/lpljcnalipecdlmafjahhdeghgdepdjg | awesome-vibecoded-apps 收录 | 控制网站访问的专注力扩展，轻量但刚需 |
+| 43 | **6.5/10** | **Aldi Prices** | Web App+开源 | https://github.com/jimlawruk/aldi-prices | awesome-vibecoded-apps 标注 all code by Copilot agent | Aldi 商品价格追踪，适合学习价格监控和历史数据展示 |
 
 ---
 
@@ -86,7 +93,7 @@
 | Fly | https://fly.pieter.com | - | B | AI coding 做大型多人 3D 体验的上限参考 |
 | Vibe Sail | https://vibesail.com | - | B | 低压多人模拟、场景探索、任务系统 |
 | Society Fail | https://society.fail | https://github.com/Shpigford/society-fail | B | 增量游戏系统、资源循环、轻叙事包装 |
-| Tower of Time | - | https://github.com/maciej-trebacz/tower-of-time-game | A | 塔防 + 时间回溯的复杂机制组织 |
+| Tower of Time | https://m4v3k.itch.io/tower-of-time | https://github.com/maciej-trebacz/tower-of-time-game | A | 塔防 + 时间回溯的复杂机制组织 |
 | Oyster Arcade | https://arcade.oyster.to/ | - | A | 统一复古视觉下的多游戏合集 |
 | The Great Taxi Assignment | https://great-taxi-assignment.netlify.app | - | B | Jam 作品完成度、3D 驾驶手感 |
 | Vector Tango | https://www.vector-tango.com | - | B | 策略、空管、空战混合玩法 |
@@ -187,4 +194,4 @@
 ---
 
 *整理说明：基于公开网络检索、GitHub API、同类 awesome 清单与项目页面整理；部分条目的 AI coding 证据来自二级清单，后续应逐步补充原始作者证据。*  
-*最后更新：2026 年 6 月 1 日*
+*最后更新：2026 年 11 月 22 日*
