@@ -1,17 +1,17 @@
 # GitHub 项目追踪快照
 
 > 由 `scripts/update-github-metadata.mjs` 自动生成。  
-> 生成时间：2026-11-25T11:28:42.447Z
+> 生成时间：2026-11-26T11:05:35.561Z
 
 | 项目 | Stars | Forks | 语言 | License | 最近 Push |
 |:---|---:|---:|:---|:---|:---|
 | [Shpigford/society-fail](https://github.com/Shpigford/society-fail) | 47 | 7 | JavaScript | MIT | 2025-09-29 |
 | [maciej-trebacz/tower-of-time-game](https://github.com/maciej-trebacz/tower-of-time-game) | 383 | 29 | TypeScript | MIT | 2025-07-04 |
-| [cannoneyed/isometric-nyc](https://github.com/cannoneyed/isometric-nyc) | 141 | 22 | Python | MIT | 2026-02-06 |
+| [cannoneyed/isometric-nyc](https://github.com/cannoneyed/isometric-nyc) | 142 | 22 | Python | MIT | 2026-02-06 |
 | [levz0r/ASCIIKeyboard](https://github.com/levz0r/ASCIIKeyboard) | 0 | 0 | Swift | MIT | 2026-11-22 |
-| [indragiek/Context](https://github.com/indragiek/Context) | 809 | 37 | Swift | MIT | 2026-02-11 |
+| [indragiek/Context](https://github.com/indragiek/Context) | 808 | 37 | Swift | MIT | 2026-02-11 |
 | krypdoh/TCKR | - | - | - | - | 请求失败 404 |
-| [levz0r/markdown-printer](https://github.com/levz0r/markdown-printer) | 42 | 3 | JavaScript | MIT | 2026-11-21 |
+| [levz0r/markdown-printer](https://github.com/levz0r/markdown-printer) | 42 | 3 | JavaScript | MIT | 2026-11-25 |
 | [jimlawruk/aldi-prices](https://github.com/jimlawruk/aldi-prices) | 2 | 0 | TypeScript | - | 2026-08-16 |
 
 ## 说明
